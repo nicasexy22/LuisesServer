@@ -8912,6 +8912,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-04-08 15:40:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2025-04-08 15:25:40 +0000"
@@ -8924,6 +8936,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-04-08 15:18:18 +0000"
@@ -8933,6 +8951,18 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
@@ -8954,6 +8984,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-04-08 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-04-08 15:18:13 +0000"
@@ -8966,9 +9008,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-04-08 15:39:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-04-08 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-04-08 15:39:49 +0000"
     },
     "done": true
   },
@@ -8978,9 +9038,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
@@ -8993,6 +9071,24 @@
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-04-08 15:19:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
+    "criteria": {
+      "has_planks": "2025-04-08 15:38:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
@@ -9014,6 +9110,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-04-08 15:37:43 +0000"
@@ -9026,6 +9128,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
@@ -9035,6 +9149,18 @@
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
