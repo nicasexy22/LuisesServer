@@ -761,3 +761,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 15:48:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
 [08Apr2025 15:48:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
 [08Apr2025 15:48:51.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Bug Repellent]
+[08Apr2025 15:50:05.885] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Apr2025 15:50:05.885] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Apr2025 15:51:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Bug Repellent]
+[08Apr2025 15:51:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Corrodon't]
+[08Apr2025 15:53:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Got Lamps?]

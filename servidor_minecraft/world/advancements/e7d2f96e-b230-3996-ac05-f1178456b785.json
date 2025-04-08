@@ -8930,6 +8930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 15:51:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-04-08 15:26:20 +0000"
@@ -8951,6 +8957,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-04-08 15:53:21 +0000"
     },
     "done": true
   },
@@ -9008,6 +9020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-08 15:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-04-08 15:39:23 +0000"
@@ -9059,6 +9077,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-04-08 15:51:04 +0000"
     },
     "done": true
   },
@@ -9116,6 +9140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-08 15:51:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-04-08 15:37:43 +0000"
@@ -9143,6 +9173,12 @@
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-04-08 15:51:16 +0000"
     },
     "done": true
   },
