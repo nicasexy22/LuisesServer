@@ -389,3 +389,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 14:40:54.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:48447] logged in with entity id 8576 at (2304.9923344835533, 70.0, 674.5359010577716)
 [08Apr2025 14:40:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
 [08Apr2025 14:40:54.677] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[08Apr2025 14:49:47.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d90a37d[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:53709) lost connection: Disconnected
+[08Apr2025 14:50:31.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@91b5721[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:49221) lost connection: Disconnected
+[08Apr2025 14:51:28.516] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33d7f311[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:39617) lost connection: Disconnected
+[08Apr2025 14:53:01.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:52081] logged in with entity id 13276 at (1598.393785648714, 72.0, 634.855647282065)
+[08Apr2025 14:53:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[08Apr2025 14:53:01.819] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
