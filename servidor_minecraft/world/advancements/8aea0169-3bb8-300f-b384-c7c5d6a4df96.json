@@ -8779,12 +8779,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-08 15:43:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
@@ -8794,18 +8788,6 @@
   "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/burrowing_arrow": {
-    "criteria": {
-      "burrowing_arrow": "2025-04-08 15:40:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-08 15:43:44 +0000"
     },
     "done": true
   },
@@ -8839,45 +8821,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-04-08 15:21:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gloomoth": {
-    "criteria": {
-      "killed": "2025-04-08 16:05:56 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_mangrove_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
-    "criteria": {
-      "underzealot_sacrifice": "2025-04-08 15:45:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/guano": {
-    "criteria": {
-      "guano": "2025-04-08 15:41:50 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-04-08 15:45:04 +0000"
     },
     "done": true
   },
@@ -8896,18 +8848,6 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-04-08 15:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-08 15:43:44 +0000"
     },
     "done": true
   },
@@ -8935,18 +8875,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-04-08 15:46:22 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_watcher": {
-    "criteria": {
-      "killed": "2025-04-08 16:13:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
@@ -8965,12 +8893,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2025-04-08 15:38:59 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
@@ -8983,12 +8905,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/moth_ball": {
-    "criteria": {
-      "moth_ball": "2025-04-08 15:40:35 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
@@ -8998,6 +8914,90 @@
   "valhelsia_furniture:recipes/decorations/purple_warped_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-04-08 15:21:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-04-08 15:38:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-04-08 15:40:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-04-08 15:40:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-04-08 15:40:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-04-08 15:41:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-08 15:43:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-08 15:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-08 15:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-04-08 15:45:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-04-08 15:45:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-08 15:46:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-04-08 16:05:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-04-08 16:13:38 +0000"
     },
     "done": true
   },
