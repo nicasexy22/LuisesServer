@@ -5872,9 +5872,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_book": "2025-04-08 14:47:35 +0000"
+      "has_lapis_lazuli": "2025-04-08 14:46:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-08 14:46:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-08 14:46:12 +0000"
     },
     "done": true
   },
@@ -5884,21 +5896,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-04-08 14:47:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-08 14:46:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-08 14:46:12 +0000"
+      "has_book": "2025-04-08 14:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-08 14:47:35 +0000"
     },
     "done": true
   },
@@ -5909,6 +5921,12 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-08 14:47:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-04-08 14:47:35 +0000"
     },
@@ -5926,21 +5944,69 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-08 14:46:12 +0000"
+      "cave_tablet": "2025-04-08 15:00:25 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "has_book": "2025-04-08 14:47:35 +0000"
+      "has_item": "2025-04-08 15:00:57 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/lapis_bricks": {
+  "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-08 14:46:12 +0000"
+      "has_item": "2025-04-08 15:00:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-04-08 15:00:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-04-08 15:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-08 15:00:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-04-08 15:00:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-08 15:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-08 15:00:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-04-08 15:07:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-04-08 15:08:56 +0000"
     },
     "done": true
   },
