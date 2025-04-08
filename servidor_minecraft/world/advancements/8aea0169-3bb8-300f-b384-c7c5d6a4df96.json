@@ -723,6 +723,7 @@
       "highland": "2025-04-08 15:34:06 +0000",
       "jacaranda_glade": "2025-04-01 14:21:54 +0000",
       "jade_cliffs": "2025-04-01 19:01:27 +0000",
+      "wetland": "2025-04-08 16:58:51 +0000",
       "mystic_grove": "2025-04-08 16:56:04 +0000",
       "old_growth_woodland": "2025-04-01 19:00:56 +0000",
       "withered_abyss": "2025-04-04 17:09:41 +0000",
@@ -740,7 +741,8 @@
       "glowing_grotto": "2025-04-06 15:13:17 +0000",
       "gravel_beach": "2025-04-08 15:31:23 +0000",
       "rainforest": "2025-04-01 14:33:02 +0000",
-      "crag": "2025-03-30 02:02:15 +0000"
+      "crag": "2025-03-30 02:02:15 +0000",
+      "ominous_woods": "2025-04-08 16:59:17 +0000"
     },
     "done": false
   },
@@ -9013,6 +9015,12 @@
   "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
     "criteria": {
       "has_planks": "2025-04-08 16:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-08 17:04:09 +0000"
     },
     "done": true
   },

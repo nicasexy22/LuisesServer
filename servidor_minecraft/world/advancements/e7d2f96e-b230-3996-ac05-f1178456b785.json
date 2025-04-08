@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-08 16:58:05 +0000",
       "minecraft:birch_forest": "2025-04-08 15:24:40 +0000",
       "minecraft:wooded_badlands": "2025-03-30 02:23:22 +0000",
       "minecraft:bamboo_jungle": "2025-04-06 15:01:49 +0000",
@@ -54,6 +55,7 @@
       "minecraft:jungle": "2025-04-08 00:05:31 +0000",
       "minecraft:windswept_savanna": "2025-03-30 01:47:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-30 02:04:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-08 17:03:06 +0000",
       "minecraft:savanna": "2025-04-01 17:48:28 +0000",
       "minecraft:plains": "2025-04-01 17:45:29 +0000"
     },
@@ -686,6 +688,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-30 01:57:34 +0000",
+      "rocky_shrubland": "2025-04-08 17:03:13 +0000",
       "scrubland": "2025-04-01 18:27:04 +0000",
       "floodplain": "2025-03-30 02:00:39 +0000",
       "lush_savanna": "2025-03-30 02:22:06 +0000",
@@ -8950,6 +8953,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-04-08 15:26:20 +0000"
@@ -8962,6 +8971,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-04-08 15:18:18 +0000"
@@ -8971,6 +8986,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 17:04:55 +0000"
     },
     "done": true
   },
@@ -9004,6 +9025,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 17:04:55 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
       "underzealot_sacrifice": "2025-04-08 16:03:25 +0000"
@@ -9022,9 +9049,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
     },
     "done": true
   },
@@ -9055,6 +9100,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
     },
     "done": true
   },
@@ -9112,6 +9163,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
@@ -9145,6 +9202,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
     },
     "done": true
   },
@@ -9208,9 +9271,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
     },
     "done": true
   },
