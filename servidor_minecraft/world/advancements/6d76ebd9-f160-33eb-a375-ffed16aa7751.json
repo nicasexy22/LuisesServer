@@ -37,6 +37,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-08 15:33:19 +0000",
+      "minecraft:birch_forest": "2025-04-08 15:33:23 +0000",
       "minecraft:savanna_plateau": "2025-04-01 18:21:32 +0000",
       "minecraft:beach": "2025-04-04 16:12:39 +0000",
       "minecraft:stony_peaks": "2025-04-01 18:46:46 +0000",
@@ -44,6 +46,7 @@
       "minecraft:lukewarm_ocean": "2025-03-30 18:18:27 +0000",
       "minecraft:river": "2025-03-30 18:11:00 +0000",
       "minecraft:stony_shore": "2025-04-06 14:43:07 +0000",
+      "minecraft:forest": "2025-04-08 15:33:32 +0000",
       "minecraft:lush_caves": "2025-04-06 18:46:05 +0000",
       "minecraft:ocean": "2025-03-30 18:18:04 +0000",
       "minecraft:jungle": "2025-04-01 18:37:51 +0000",
@@ -92,12 +95,15 @@
       "highland": "2025-03-30 18:13:58 +0000",
       "jacaranda_glade": "2025-04-01 14:08:37 +0000",
       "jade_cliffs": "2025-04-01 19:01:18 +0000",
+      "wetland": "2025-04-08 15:28:09 +0000",
       "old_growth_woodland": "2025-04-01 14:13:12 +0000",
       "withered_abyss": "2025-04-04 17:09:56 +0000",
       "orchard": "2025-04-01 14:08:11 +0000",
+      "field": "2025-04-08 15:29:41 +0000",
       "overgrown_greens": "2025-03-30 18:15:24 +0000",
       "mediterranean_forest": "2025-04-01 14:11:05 +0000",
       "coniferous_forest": "2025-04-08 15:26:51 +0000",
+      "forested_field": "2025-04-08 15:31:28 +0000",
       "redwood_forest": "2025-03-30 18:12:55 +0000",
       "dune_beach": "2025-03-30 18:18:14 +0000",
       "volcano": "2025-04-06 14:35:24 +0000",
@@ -107,7 +113,8 @@
       "fir_clearing": "2025-04-08 15:27:24 +0000",
       "prairie": "2025-03-30 18:05:44 +0000",
       "glowing_grotto": "2025-04-06 15:10:37 +0000",
-      "rainforest": "2025-03-30 18:18:34 +0000"
+      "rainforest": "2025-03-30 18:18:34 +0000",
+      "crag": "2025-04-08 15:33:20 +0000"
     },
     "done": false
   },
@@ -6019,6 +6026,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-08 15:30:22 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-04-08 15:21:25 +0000"
@@ -6034,6 +6047,24 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-04-08 15:19:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
     },
     "done": true
   },
