@@ -1623,6 +1623,7 @@
       "bread": "2025-04-01 17:49:55 +0000",
       "golden_carrot": "2025-04-01 18:08:13 +0000",
       "cooked_chicken": "2025-04-05 18:39:38 +0000",
+      "rabbit_stew": "2025-04-08 16:55:03 +0000",
       "carrot": "2025-04-04 17:48:17 +0000"
     },
     "done": false
@@ -8907,6 +8908,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
@@ -9087,6 +9094,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
@@ -9120,6 +9133,18 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
     },
     "done": true
   },
@@ -9204,6 +9229,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-08 16:53:48 +0000"
     },
     "done": true
   },
