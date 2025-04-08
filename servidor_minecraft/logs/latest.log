@@ -815,3 +815,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 16:29:40.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:35157] logged in with entity id 81479 at (-657.4975080638903, -29.0, -2266.1837210171816)
 [08Apr2025 16:29:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [08Apr2025 16:29:40.997] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[08Apr2025 16:45:45.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Corrodon't]
+[08Apr2025 16:48:26.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[08Apr2025 16:48:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
