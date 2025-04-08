@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-08 16:56:16 +0000",
       "minecraft:birch_forest": "2025-04-08 15:27:02 +0000",
+      "minecraft:windswept_hills": "2025-04-08 17:11:18 +0000",
       "minecraft:bamboo_jungle": "2025-04-06 15:14:39 +0000",
       "minecraft:savanna_plateau": "2025-04-01 13:41:30 +0000",
       "minecraft:beach": "2025-03-31 21:58:06 +0000",
@@ -735,6 +736,7 @@
       "redwood_forest": "2025-03-30 01:55:45 +0000",
       "visceral_heap": "2025-04-05 18:35:50 +0000",
       "dune_beach": "2025-04-01 14:30:43 +0000",
+      "seasonal_forest": "2025-04-08 17:11:05 +0000",
       "rocky_rainforest": "2025-04-01 18:43:54 +0000",
       "lavender_field": "2025-04-01 14:23:20 +0000",
       "prairie": "2025-03-30 01:54:05 +0000",
@@ -9006,9 +9008,81 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 17:08:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-04-08 17:17:02 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-04-08 16:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_umbran": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-04-08 17:17:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 17:08:36 +0000"
     },
     "done": true
   },
@@ -9027,6 +9101,18 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-04-08 16:56:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:11:40 +0000"
     },
     "done": true
   },

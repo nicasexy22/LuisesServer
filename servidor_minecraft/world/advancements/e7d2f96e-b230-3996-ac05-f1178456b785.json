@@ -9115,6 +9115,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "minecraft:shulker_boxes": "2025-04-08 17:08:22 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
       "killed_by_underzealot": "2025-04-08 15:39:49 +0000"
