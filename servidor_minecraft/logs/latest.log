@@ -766,3 +766,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 15:51:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Bug Repellent]
 [08Apr2025 15:51:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Corrodon't]
 [08Apr2025 15:53:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Got Lamps?]
+[08Apr2025 16:03:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [The Black Parade]
+[08Apr2025 16:05:39.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[08Apr2025 16:05:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[08Apr2025 16:05:47.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:40259] logged in with entity id 75191 at (-655.2136822208432, -20.0, -2263.4212030959784)
+[08Apr2025 16:05:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[08Apr2025 16:05:47.322] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[08Apr2025 16:05:56.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Got Lamps?]
+[08Apr2025 16:09:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Chattering Teeth]
+[08Apr2025 16:13:00.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved too quickly! 60.929585677252476,-16.99419815395251,-12.455473425164655
+[08Apr2025 16:13:04.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved wrongly!
+[08Apr2025 16:13:04.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved wrongly!
+[08Apr2025 16:13:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [This is my Boomstick]
+[08Apr2025 16:16:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:23.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:42.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
+[08Apr2025 16:16:47.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope
+[08Apr2025 16:16:48.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope

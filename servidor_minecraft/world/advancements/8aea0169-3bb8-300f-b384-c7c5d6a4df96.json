@@ -8845,6 +8845,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-04-08 16:05:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_mangrove_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-08 14:57:09 +0000"
@@ -8932,6 +8938,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-04-08 15:46:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-04-08 16:13:38 +0000"
     },
     "done": true
   },

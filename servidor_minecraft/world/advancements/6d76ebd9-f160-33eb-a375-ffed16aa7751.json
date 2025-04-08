@@ -6020,33 +6020,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_any_ingredient": "2025-04-08 15:40:02 +0000"
+      "lightning_rod_with_villager_no_fire": "2025-04-08 15:19:03 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "burrowing_arrow": "2025-04-08 15:44:07 +0000"
+      "cave_map": "2025-04-08 15:21:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
-      "has_mud_bricks": "2025-04-08 15:44:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-08 15:40:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_corrodent": {
-    "criteria": {
-      "killed": "2025-04-08 15:51:37 +0000"
+      "has_pink_daffodil": "2025-04-08 15:25:03 +0000"
     },
     "done": true
   },
@@ -6062,9 +6050,57 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
+  "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
-      "cave_map": "2025-04-08 15:21:25 +0000"
+      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-04-08 15:38:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-08 15:40:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-08 15:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-08 15:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-08 15:40:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-04-08 15:40:39 +0000"
     },
     "done": true
   },
@@ -6080,15 +6116,9 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
-      "underzealot_sacrifice": "2025-04-08 15:45:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/guano": {
-    "criteria": {
-      "guano": "2025-04-08 15:44:06 +0000"
+      "has_mud_bricks": "2025-04-08 15:44:03 +0000"
     },
     "done": true
   },
@@ -6104,24 +6134,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-04-08 15:44:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-04-08 15:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-08 15:40:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-04-08 15:44:03 +0000"
@@ -6134,33 +6146,33 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
-    "criteria": {
-      "has_pink_daffodil": "2025-04-08 15:25:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2025-04-08 15:38:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-04-08 15:44:03 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "alexscaves:alexscaves/guano": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-04-08 15:19:03 +0000"
+      "guano": "2025-04-08 15:44:06 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blaze": {
+  "alexscaves:alexscaves/burrowing_arrow": {
     "criteria": {
-      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+      "burrowing_arrow": "2025-04-08 15:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-04-08 15:44:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-04-08 15:45:05 +0000"
     },
     "done": true
   },
@@ -6170,21 +6182,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
-      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-08 15:40:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-08 15:30:22 +0000"
+      "killed": "2025-04-08 15:51:37 +0000"
     },
     "done": true
   },
