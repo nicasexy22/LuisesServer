@@ -7262,3 +7262,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 14:15:39.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Apr2025 14:20:39.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 14:20:39.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 14:25:39.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:25:39.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 14:28:48.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 395c6724-30a1-4007-a82a-31fbec91a8a8
+[10Apr2025 14:28:48.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: ae21e3c9-8258-4382-a89d-83b56a4e5876
+[10Apr2025 14:28:48.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: ae21e3c9-8258-4382-a89d-83b56a4e5876
+[10Apr2025 14:28:48.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 395c6724-30a1-4007-a82a-31fbec91a8a8
+[10Apr2025 14:28:48.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: ae21e3c9-8258-4382-a89d-83b56a4e5876
+[10Apr2025 14:29:53.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Apr2025 14:30:07.291] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Apr2025 14:30:39.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:30:39.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 14:31:42.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7b39b187-6127-4c88-9c5a-a089120b20fc
+[10Apr2025 14:31:42.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7b39b187-6127-4c88-9c5a-a089120b20fc
+[10Apr2025 14:31:42.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7b39b187-6127-4c88-9c5a-a089120b20fc
+[10Apr2025 14:31:42.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 84cba80f-f2ea-4055-b3a0-87526f86612e
+[10Apr2025 14:31:42.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 84cba80f-f2ea-4055-b3a0-87526f86612e
+[10Apr2025 14:33:08.934] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 83b234de-23ac-45d4-baf6-fe5c0e7e699a
+[10Apr2025 14:33:08.934] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4f2cb4e-b06e-42e6-ae07-ec8ef06eb900
+[10Apr2025 14:33:08.934] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4f2cb4e-b06e-42e6-ae07-ec8ef06eb900
+[10Apr2025 14:33:08.934] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4f2cb4e-b06e-42e6-ae07-ec8ef06eb900
+[10Apr2025 14:33:08.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4f2cb4e-b06e-42e6-ae07-ec8ef06eb900
+[10Apr2025 14:35:39.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:35:39.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
