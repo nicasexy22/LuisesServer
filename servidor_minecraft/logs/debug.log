@@ -7326,3 +7326,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 14:45:39.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 14:45:39.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Apr2025 14:45:43.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Who is Cutting Onions?]
+[10Apr2025 14:46:55.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=29, z=91} BlockPos{x=195, y=27, z=91}
+[10Apr2025 14:48:02.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e9432577-d5a6-49d2-ac9b-508f23207bde
+[10Apr2025 14:48:02.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e9432577-d5a6-49d2-ac9b-508f23207bde
+[10Apr2025 14:48:02.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e9432577-d5a6-49d2-ac9b-508f23207bde
+[10Apr2025 14:48:02.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e9432577-d5a6-49d2-ac9b-508f23207bde
+[10Apr2025 14:48:02.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e9432577-d5a6-49d2-ac9b-508f23207bde
+[10Apr2025 14:48:21.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 371d3890-ffeb-46b9-8505-25242e147f58
+[10Apr2025 14:49:40.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f048a15d-880e-4fb0-bb7f-4f5c576939e7
+[10Apr2025 14:49:40.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f048a15d-880e-4fb0-bb7f-4f5c576939e7
+[10Apr2025 14:49:40.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f048a15d-880e-4fb0-bb7f-4f5c576939e7
+[10Apr2025 14:49:40.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f048a15d-880e-4fb0-bb7f-4f5c576939e7
+[10Apr2025 14:49:40.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f048a15d-880e-4fb0-bb7f-4f5c576939e7
+[10Apr2025 14:50:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Good Demoman]
+[10Apr2025 14:50:39.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:50:39.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 14:50:51.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=17, z=76} BlockPos{x=200, y=17, z=83}
+[10Apr2025 14:50:51.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=17, z=76} BlockPos{x=200, y=17, z=83}
+[10Apr2025 14:50:51.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=17, z=76} BlockPos{x=200, y=17, z=83}
+[10Apr2025 14:51:08.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:08.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:08.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:08.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:09.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:09.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:09.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:10.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:55:39.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:55:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 14:56:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [I think we have a problem ?!]
+[10Apr2025 14:57:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Public Disturber !]
+[10Apr2025 15:00:39.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:00:39.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:03:05.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Wanted by the Legion !]
+[10Apr2025 15:04:06.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 843123fe-5a16-408e-954b-d170ea5ef23b
+[10Apr2025 15:04:06.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 94313162-c569-420c-b055-7d91c36e1ea9
+[10Apr2025 15:04:06.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 94313162-c569-420c-b055-7d91c36e1ea9
+[10Apr2025 15:04:06.830] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: aca9fea7-4156-4eac-b3a0-27960eff7919
+[10Apr2025 15:04:06.830] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 94313162-c569-420c-b055-7d91c36e1ea9
+[10Apr2025 15:04:14.968] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [2e719f8d-9ac0-44a3-8551-b6b631e90b09]
+[10Apr2025 15:05:39.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:05:39.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -421,3 +421,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 14:38:35.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=64, z=72} BlockPos{x=193, y=61, z=72}
 [10Apr2025 14:39:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [War Pigs]
 [10Apr2025 14:45:43.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Who is Cutting Onions?]
+[10Apr2025 14:46:55.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=29, z=91} BlockPos{x=195, y=27, z=91}
+[10Apr2025 14:50:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Good Demoman]
+[10Apr2025 14:50:51.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=17, z=76} BlockPos{x=200, y=17, z=83}
+[10Apr2025 14:50:51.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=17, z=76} BlockPos{x=200, y=17, z=83}
+[10Apr2025 14:50:51.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=17, z=76} BlockPos{x=200, y=17, z=83}
+[10Apr2025 14:51:08.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:08.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:08.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:08.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:09.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:09.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:09.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=22, z=83} BlockPos{x=201, y=19, z=85}
+[10Apr2025 14:51:10.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:51:10.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=23, z=85} BlockPos{x=202, y=24, z=85}
+[10Apr2025 14:56:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [I think we have a problem ?!]
+[10Apr2025 14:57:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Public Disturber !]
+[10Apr2025 15:03:05.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Wanted by the Legion !]
