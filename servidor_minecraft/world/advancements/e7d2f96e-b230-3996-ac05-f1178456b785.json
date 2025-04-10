@@ -8911,69 +8911,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
-    "criteria": {
-      "has_planks": "2025-04-08 15:34:06 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/burrowing_arrow": {
-    "criteria": {
-      "burrowing_arrow": "2025-04-08 16:09:29 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_corrodent": {
-    "criteria": {
-      "killed": "2025-04-08 15:40:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed": "2025-04-08 15:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 15:51:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-04-08 15:26:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
+      "cave_codex": "2025-04-08 15:18:13 +0000"
     },
     "done": true
   },
@@ -8983,33 +8923,69 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_fence": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-08 15:19:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-04-08 15:19:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-04-08 15:25:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 15:26:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-04-08 15:29:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 15:31:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 15:31:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+  "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
-      "has_log": "2025-04-08 17:04:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gloomoth": {
-    "criteria": {
-      "killed": "2025-04-08 15:53:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+      "has_planks": "2025-04-08 15:34:06 +0000"
     },
     "done": true
   },
@@ -9025,117 +9001,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-04-08 17:04:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
-    "criteria": {
-      "underzealot_sacrifice": "2025-04-08 16:03:25 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/guano": {
-    "criteria": {
-      "guano": "2025-04-08 15:38:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-04-08 15:18:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 15:26:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-08 15:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-04-08 15:39:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2025-04-08 15:26:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/safe": {
-    "criteria": {
-      "minecraft:shulker_boxes": "2025-04-08 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-04-08 15:39:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 15:31:28 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
@@ -9145,87 +9013,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
-    "criteria": {
-      "has_item": "2025-04-08 15:51:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-08 15:34:06 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-04-08 15:19:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
-    "criteria": {
-      "has_planks": "2025-04-08 15:38:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_planks": {
-    "criteria": {
-      "has_logs": "2025-04-08 15:31:28 +0000"
     },
     "done": true
   },
@@ -9235,21 +9025,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
-      "has_tall_white_lavender": "2025-04-08 15:29:46 +0000"
+      "has_planks": "2025-04-08 15:34:06 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-04-08 15:51:04 +0000"
+      "has_planks": "2025-04-08 15:34:06 +0000"
     },
     "done": true
   },
@@ -9259,9 +9043,87 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-04-08 15:19:03 +0000"
+      "has_planks": "2025-04-08 15:38:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-04-08 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
@@ -9277,21 +9139,57 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
     "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
     "criteria": {
-      "has_planks": "2025-04-08 15:34:06 +0000"
+      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+  "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
-      "has_planks": "2025-04-08 17:05:01 +0000"
+      "has_packed_mud": "2025-04-08 15:39:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-04-08 15:39:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-04-08 15:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 15:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-08 15:51:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-04-08 15:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-08 15:51:04 +0000"
     },
     "done": true
   },
@@ -9301,15 +9199,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+  "alexscaves:alexscaves/defeat_gloomoth": {
     "criteria": {
-      "has_planks": "2025-04-08 15:34:06 +0000"
+      "killed": "2025-04-08 15:53:21 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+  "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+      "underzealot_sacrifice": "2025-04-08 16:03:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-04-08 16:09:29 +0000"
     },
     "done": true
   },
@@ -9319,9 +9223,105 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
+  "travelersbackpack:recipes/misc/bee": {
     "criteria": {
-      "has_dark_oak_slab": "2025-04-08 15:39:01 +0000"
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-08 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 17:04:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 17:04:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-08 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "minecraft:shulker_boxes": "2025-04-08 17:08:22 +0000"
     },
     "done": true
   },

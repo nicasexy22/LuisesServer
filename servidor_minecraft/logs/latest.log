@@ -394,3 +394,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 13:16:37.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
 [10Apr2025 13:16:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
 [10Apr2025 13:50:26.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has completed the challenge [It's Purple!]
+[10Apr2025 13:57:37.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bb18_[/127.63.123.64:41029] logged in with entity id 20430 at (2394.4601556641683, 63.0, 270.37964090980034)
+[10Apr2025 13:57:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
+[10Apr2025 13:57:37.528] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
+[10Apr2025 13:59:43.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Creative Mode]
+[10Apr2025 14:00:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[10Apr2025 14:03:26.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Timed out
+[10Apr2025 14:03:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[10Apr2025 14:04:23.841] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6697680[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:41735) lost connection: Disconnected
+[10Apr2025 14:04:35.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:57641] logged in with entity id 23301 at (1596.5685470903222, 72.0, 634.2541271418391)
+[10Apr2025 14:04:35.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[10Apr2025 14:04:35.604] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
