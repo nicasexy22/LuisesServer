@@ -462,3 +462,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 16:06:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
 [10Apr2025 16:10:31.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
 [10Apr2025 16:10:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
+[10Apr2025 16:19:36.221] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f32c46c[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:43619) lost connection: Disconnected
+[10Apr2025 16:19:46.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:51553] logged in with entity id 77158 at (1595.8365722201884, 72.0, 635.432118938946)
+[10Apr2025 16:19:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[10Apr2025 16:19:46.477] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[10Apr2025 16:19:46.478] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[10Apr2025 16:24:33.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[10Apr2025 16:24:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
