@@ -1,96 +1,96 @@
-[08Apr2025 14:26:05.442] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[08Apr2025 14:26:05.448] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[08Apr2025 14:26:09.443] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Apr2025 14:26:09.545] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LuisesServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Apr2025 14:26:10.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 14:26:10.159] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 14:26:10.160] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 14:26:10.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 14:26:10.644] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[08Apr2025 14:26:13.804] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Apr2025 14:26:14.079] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Apr2025 14:26:14.307] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 99 options available, 0 override(s) found
-[08Apr2025 14:26:14.395] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Apr2025 14:26:14.544] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[08Apr2025 14:26:17.927] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[08Apr2025 14:26:27.410] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[10Apr2025 13:03:58.472] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Apr2025 13:03:58.478] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[10Apr2025 13:04:02.472] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Apr2025 13:04:02.585] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LuisesServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Apr2025 13:04:03.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 13:04:03.184] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 13:04:03.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 13:04:03.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 13:04:03.630] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[10Apr2025 13:04:06.880] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Apr2025 13:04:07.143] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Apr2025 13:04:07.281] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 99 options available, 0 override(s) found
+[10Apr2025 13:04:07.352] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Apr2025 13:04:07.391] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[10Apr2025 13:04:11.025] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[10Apr2025 13:04:19.870] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[08Apr2025 14:26:28.065] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[08Apr2025 14:26:28.138] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[08Apr2025 14:26:28.511] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[08Apr2025 14:26:28.530] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Apr2025 14:26:28.532] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Apr2025 14:26:28.621] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[08Apr2025 14:26:28.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[08Apr2025 14:26:28.630] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[08Apr2025 14:26:28.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[08Apr2025 14:26:28.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[08Apr2025 14:26:28.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[08Apr2025 14:26:28.656] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[08Apr2025 14:26:28.658] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[08Apr2025 14:26:31.695] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id furnish:cl_update_itemstack
-[08Apr2025 14:26:31.697] [modloading-worker-0/INFO] [Furnish/]: Initializing Furnish on Forge.
-[08Apr2025 14:26:31.891] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Blocks.
-[08Apr2025 14:26:31.892] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Items.
-[08Apr2025 14:26:31.892] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Recipe Types.
-[08Apr2025 14:26:31.892] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Recipe Serializers.
-[08Apr2025 14:26:31.892] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Sound Events.
-[08Apr2025 14:26:31.892] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Containers.
-[08Apr2025 14:26:31.893] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Entities.
-[08Apr2025 14:26:31.893] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Block Entities.
-[08Apr2025 14:26:31.893] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Painting Variants.
-[08Apr2025 14:26:31.902] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Creative Tab.
-[08Apr2025 14:26:31.926] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Events.
-[08Apr2025 14:26:31.946] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[08Apr2025 14:26:35.798] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:maple
-[08Apr2025 14:26:35.798] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_autumn
-[08Apr2025 14:26:35.799] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_autumn
-[08Apr2025 14:26:35.811] [main/INFO] [Moonlight/]: Initialized block sets in 44ms
-[08Apr2025 14:26:37.595] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[08Apr2025 14:26:37.611] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[08Apr2025 14:26:38.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[08Apr2025 14:26:38.039] [main/INFO] [journeymap/]: Initializing Packet Registries
-[08Apr2025 14:26:38.069] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[08Apr2025 14:26:38.069] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[08Apr2025 14:26:38.070] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[08Apr2025 14:26:38.070] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[08Apr2025 14:26:38.183] [main/INFO] [Supplementaries/]: Finished mod setup in: [70, 2, 0, 1, 0, 0, 14, 8, 1] ms
-[08Apr2025 14:26:38.259] [main/INFO] [Moonlight/]: Initialized color sets in 70ms
-[08Apr2025 14:26:38.269] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[08Apr2025 14:26:38.269] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[08Apr2025 14:26:38.269] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[08Apr2025 14:26:38.269] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[08Apr2025 14:26:38.269] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[08Apr2025 14:26:38.270] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[08Apr2025 14:26:38.270] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[08Apr2025 14:26:38.431] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[08Apr2025 14:26:38.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[08Apr2025 14:26:38.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[08Apr2025 14:26:38.522] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[08Apr2025 14:26:38.542] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[08Apr2025 14:26:38.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[08Apr2025 14:26:38.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Apr2025 14:26:38.572] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[08Apr2025 14:26:38.577] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[08Apr2025 14:26:38.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[08Apr2025 14:26:38.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[08Apr2025 14:26:38.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.5 Target: null
-[08Apr2025 14:26:38.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[08Apr2025 14:26:38.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.25 Target: null
-[08Apr2025 14:26:38.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_reds_morestructures] Starting version check at https://api.modrinth.com/updates/DKJltXeY/forge_updates.json
-[08Apr2025 14:26:39.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_reds_morestructures] Found status: OUTDATED Current: 1.0.8R Target: 1.0.8R+mod
-[08Apr2025 14:26:39.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[08Apr2025 14:26:39.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[08Apr2025 14:26:39.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[08Apr2025 14:26:39.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[08Apr2025 14:26:42.904] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Apr2025 14:26:45.947] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/assets/.mcassetsroot' uses unexpected schema
-[08Apr2025 14:26:45.947] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/data/.mcassetsroot' uses unexpected schema
-[08Apr2025 14:26:46.116] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 47 ms
-[08Apr2025 14:26:48.701] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[08Apr2025 14:26:48.821] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[08Apr2025 14:26:50.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[08Apr2025 14:26:50.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
+[10Apr2025 13:04:20.516] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[10Apr2025 13:04:20.564] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[10Apr2025 13:04:20.861] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[10Apr2025 13:04:20.972] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Apr2025 13:04:20.976] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Apr2025 13:04:20.981] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Apr2025 13:04:20.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Apr2025 13:04:20.986] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Apr2025 13:04:20.984] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Apr2025 13:04:20.988] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Apr2025 13:04:20.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Apr2025 13:04:20.990] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Apr2025 13:04:20.996] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Apr2025 13:04:23.359] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id furnish:cl_update_itemstack
+[10Apr2025 13:04:23.363] [modloading-worker-0/INFO] [Furnish/]: Initializing Furnish on Forge.
+[10Apr2025 13:04:23.524] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Blocks.
+[10Apr2025 13:04:23.527] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Items.
+[10Apr2025 13:04:23.530] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Recipe Types.
+[10Apr2025 13:04:23.533] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Recipe Serializers.
+[10Apr2025 13:04:23.534] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Sound Events.
+[10Apr2025 13:04:23.534] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Containers.
+[10Apr2025 13:04:23.534] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Entities.
+[10Apr2025 13:04:23.534] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Block Entities.
+[10Apr2025 13:04:23.536] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Painting Variants.
+[10Apr2025 13:04:23.537] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Creative Tab.
+[10Apr2025 13:04:23.579] [modloading-worker-0/INFO] [Furnish/]: Registered Furnish Events.
+[10Apr2025 13:04:23.604] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Apr2025 13:04:27.324] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:maple
+[10Apr2025 13:04:27.324] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_autumn
+[10Apr2025 13:04:27.325] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_autumn
+[10Apr2025 13:04:27.336] [main/INFO] [Moonlight/]: Initialized block sets in 52ms
+[10Apr2025 13:04:29.087] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[10Apr2025 13:04:29.099] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[10Apr2025 13:04:29.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10Apr2025 13:04:29.490] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10Apr2025 13:04:29.540] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[10Apr2025 13:04:29.540] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[10Apr2025 13:04:29.544] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[10Apr2025 13:04:29.545] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[10Apr2025 13:04:29.656] [main/INFO] [Supplementaries/]: Finished mod setup in: [55, 3, 0, 1, 0, 1, 12, 10, 1] ms
+[10Apr2025 13:04:29.734] [main/INFO] [Moonlight/]: Initialized color sets in 74ms
+[10Apr2025 13:04:29.739] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[10Apr2025 13:04:29.739] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[10Apr2025 13:04:29.740] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[10Apr2025 13:04:29.740] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[10Apr2025 13:04:29.740] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[10Apr2025 13:04:29.740] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[10Apr2025 13:04:29.741] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[10Apr2025 13:04:29.913] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[10Apr2025 13:04:29.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[10Apr2025 13:04:29.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[10Apr2025 13:04:29.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[10Apr2025 13:04:29.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Apr2025 13:04:29.991] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[10Apr2025 13:04:30.008] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[10Apr2025 13:04:30.028] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[10Apr2025 13:04:30.044] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[10Apr2025 13:04:30.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[10Apr2025 13:04:30.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[10Apr2025 13:04:30.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.5 Target: null
+[10Apr2025 13:04:30.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[10Apr2025 13:04:30.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.25 Target: null
+[10Apr2025 13:04:30.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_reds_morestructures] Starting version check at https://api.modrinth.com/updates/DKJltXeY/forge_updates.json
+[10Apr2025 13:04:30.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_reds_morestructures] Found status: OUTDATED Current: 1.0.8R Target: 1.0.8R+mod
+[10Apr2025 13:04:30.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[10Apr2025 13:04:30.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[10Apr2025 13:04:30.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[10Apr2025 13:04:30.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[10Apr2025 13:04:34.489] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Apr2025 13:04:37.589] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/assets/.mcassetsroot' uses unexpected schema
+[10Apr2025 13:04:37.589] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LuisesServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/data/.mcassetsroot' uses unexpected schema
+[10Apr2025 13:04:37.800] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 74 ms
+[10Apr2025 13:04:40.302] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Apr2025 13:04:40.610] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[10Apr2025 13:04:42.145] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[10Apr2025 13:04:42.151] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
@@ -123,7 +123,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 14:26:50.637] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[10Apr2025 13:04:42.158] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -161,7 +161,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 14:26:50.721] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
+[10Apr2025 13:04:42.235] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
@@ -194,8 +194,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 14:26:50.723] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[08Apr2025 14:26:50.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
+[10Apr2025 13:04:42.240] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[10Apr2025 13:04:42.391] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
@@ -228,7 +228,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 14:26:50.910] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
+[10Apr2025 13:04:42.425] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
@@ -261,7 +261,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 14:26:50.912] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
+[10Apr2025 13:04:42.427] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
@@ -294,9 +294,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 14:26:50.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[08Apr2025 14:26:51.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[08Apr2025 14:26:51.001] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+[10Apr2025 13:04:42.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[10Apr2025 13:04:42.501] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[10Apr2025 13:04:42.502] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -312,603 +312,84 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[08Apr2025 14:26:51.253] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4420 advancements
-[08Apr2025 14:26:51.278] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[08Apr2025 14:26:51.284] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[08Apr2025 14:26:51.293] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[08Apr2025 14:26:51.346] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[08Apr2025 14:26:54.302] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[08Apr2025 14:26:54.379] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[08Apr2025 14:26:54.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Apr2025 14:26:54.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Apr2025 14:26:54.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Apr2025 14:26:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Apr2025 14:26:54.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Apr2025 14:26:54.926] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Apr2025 14:26:55.033] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Apr2025 14:26:55.033] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Apr2025 14:26:55.033] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Apr2025 14:26:55.034] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Apr2025 14:26:55.047] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Apr2025 14:26:55.048] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Apr2025 14:26:55.049] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Apr2025 14:26:56.099] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[08Apr2025 14:26:56.101] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[08Apr2025 14:26:56.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Apr2025 14:26:57.369] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:26:59.643] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:01.871] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:04.126] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Apr2025 14:27:04.512] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:06.665] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:07.245] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.247] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.248] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.250] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.270] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.280] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.282] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:07.972] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:08.217] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:08.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:08.807] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:09.216] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 14:27:09.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[08Apr2025 14:27:10.021] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5806 ms
-[08Apr2025 14:27:10.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.977s)! For help, type "help"
-[08Apr2025 14:27:10.140] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Apr2025 14:27:10.174] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
-[08Apr2025 14:27:10.613] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:11.018] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:13.216] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:13.646] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:15.743] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:16.598] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:17.932] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:19.782] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:20.119] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:22.304] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:22.700] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[08Apr2025 14:27:22.796] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:24.911] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:27.105] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:30.750] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:31.885] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:32.035] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[08Apr2025 14:27:32.271] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[08Apr2025 14:27:42.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bb18_[/127.63.123.64:37055] logged in with entity id 97 at (2393.0795467804664, 63.0, 288.0168209606117)
-[08Apr2025 14:27:42.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
-[08Apr2025 14:27:42.651] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
-[08Apr2025 14:27:42.659] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
-[08Apr2025 14:27:50.754] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[08Apr2025 14:27:56.204] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[08Apr2025 14:27:59.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17035ms or 340 ticks behind
-[08Apr2025 14:28:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made bb18_ a server operator
-[08Apr2025 14:37:41.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved too quickly! 17.09178116959629,-1.3251928570670515,-5.486863417021823
-[08Apr2025 14:40:54.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:48447] logged in with entity id 8576 at (2304.9923344835533, 70.0, 674.5359010577716)
-[08Apr2025 14:40:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
-[08Apr2025 14:40:54.677] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
-[08Apr2025 14:49:47.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d90a37d[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:53709) lost connection: Disconnected
-[08Apr2025 14:50:31.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@91b5721[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:49221) lost connection: Disconnected
-[08Apr2025 14:51:28.516] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33d7f311[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:39617) lost connection: Disconnected
-[08Apr2025 14:53:01.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:52081] logged in with entity id 13276 at (1598.393785648714, 72.0, 634.855647282065)
-[08Apr2025 14:53:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
-[08Apr2025 14:53:01.819] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
-[08Apr2025 15:00:25.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [It Belongs in a Museum]
-[08Apr2025 15:07:13.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Lorem Ipsum]
-[08Apr2025 15:08:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Once Upon a Cave]
-[08Apr2025 15:15:00.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
-[08Apr2025 15:15:00.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
-[08Apr2025 15:15:34.569] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77237050[id=<null>,name=nicasexy_22,properties={},legacy=false] (/127.129.85.76:59187) lost connection: Disconnected
-[08Apr2025 15:15:42.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:51789] logged in with entity id 26938 at (2415.4773144934006, 63.01417409266245, 234.0860214374509)
-[08Apr2025 15:15:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
-[08Apr2025 15:15:42.204] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
-[08Apr2025 15:18:13.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Lorem Ipsum]
-[08Apr2025 15:18:18.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [The Journey Begins]
-[08Apr2025 15:18:22.891] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -782 -56 -2407 in 1s
-[08Apr2025 15:19:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Surge Protector]
-[08Apr2025 15:19:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Surge Protector]
-[08Apr2025 15:19:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Horror Under the Mantle]
-[08Apr2025 15:21:10.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [The Journey Begins]
-[08Apr2025 15:21:25.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [The Journey Begins]
-[08Apr2025 15:24:17.686] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:24:17.687] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:24:17.687] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:24:17.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:24:17.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:24:17.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:24:24.134] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:24:24.135] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:24:24.136] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:24:24.136] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:24:24.137] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:24:24.137] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:25:09.193] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:25:09.194] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:25:09.194] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:25:09.194] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:25:09.195] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:25:09.195] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:25:15.174] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:25:15.174] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:25:15.175] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:25:15.175] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:25:15.175] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:25:15.175] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:25:23.113] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:25:23.114] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:25:23.114] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:25:23.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:25:23.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:25:23.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:25:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Convergent Evolution...]
-[08Apr2025 15:25:43.913] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[08Apr2025 15:25:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Convergent Evolution...]
-[08Apr2025 15:25:55.171] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
-[08Apr2025 15:25:55.172] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
-[08Apr2025 15:25:55.173] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
-[08Apr2025 15:25:55.174] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
-[08Apr2025 15:25:57.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-101, y=-58, z=9}
-[08Apr2025 15:25:57.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-58, z=9}
-[08Apr2025 15:25:57.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=4}
-[08Apr2025 15:25:57.667] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=4}
-[08Apr2025 15:25:57.667] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=0}
-[08Apr2025 15:25:57.667] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=0}
-[08Apr2025 15:26:34.940] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[08Apr2025 15:26:51.153] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:26:51.154] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:26:51.154] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:26:51.154] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:26:51.155] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:26:51.155] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:26:56.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:26:56.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:26:56.548] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:26:56.548] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:26:56.549] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:26:56.550] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:27:00.394] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:27:00.394] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:27:00.395] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:27:00.395] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:27:00.395] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:27:00.395] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:27:00.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:27:00.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:27:00.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:27:00.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:27:00.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:27:00.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:27:00.897] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:27:00.898] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:27:00.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:27:00.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:27:00.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:27:00.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:27:34.827] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1243}
-[08Apr2025 15:27:34.828] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1241}
-[08Apr2025 15:27:34.972] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
-[08Apr2025 15:27:40.662] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-1227}
-[08Apr2025 15:27:56.206] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[08Apr2025 15:28:08.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Foxyfolli) moved wrongly! 0.29993569540965836
-[08Apr2025 15:28:08.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Foxyfolli) moved wrongly! 0.38940872526336534
-[08Apr2025 15:28:23.645] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[08Apr2025 15:28:47.665] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:28:47.665] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:28:47.665] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:28:47.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:28:47.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:28:47.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:28:50.196] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:28:50.196] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:28:50.196] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:28:50.197] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:28:50.197] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:28:50.197] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:28:50.607] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-101, y=-58, z=9}
-[08Apr2025 15:28:50.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-58, z=9}
-[08Apr2025 15:28:50.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=4}
-[08Apr2025 15:28:50.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=4}
-[08Apr2025 15:28:50.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=0}
-[08Apr2025 15:28:50.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=0}
-[08Apr2025 15:29:14.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
-[08Apr2025 15:29:14.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
-[08Apr2025 15:29:15.371] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
-[08Apr2025 15:29:18.247] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1243}
-[08Apr2025 15:29:18.248] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1241}
-[08Apr2025 15:29:25.120] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1230}
-[08Apr2025 15:29:25.121] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1230}
-[08Apr2025 15:29:25.210] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=26, z=-1220}
-[08Apr2025 15:29:25.210] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=25, z=-1221}
-[08Apr2025 15:29:25.211] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1226}
-[08Apr2025 15:29:25.578] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
-[08Apr2025 15:29:28.559] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
-[08Apr2025 15:29:28.559] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
-[08Apr2025 15:29:28.559] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
-[08Apr2025 15:29:28.559] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
-[08Apr2025 15:29:30.928] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
-[08Apr2025 15:29:31.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
-[08Apr2025 15:29:31.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
-[08Apr2025 15:29:31.520] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
-[08Apr2025 15:29:32.371] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
-[08Apr2025 15:29:32.753] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
-[08Apr2025 15:29:32.753] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
-[08Apr2025 15:29:32.827] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
-[08Apr2025 15:29:34.455] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
-[08Apr2025 15:29:35.949] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
-[08Apr2025 15:29:36.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
-[08Apr2025 15:29:36.466] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:29:36.466] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:29:36.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:29:36.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:29:36.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:29:36.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:29:36.480] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
-[08Apr2025 15:29:36.482] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
-[08Apr2025 15:29:37.806] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
-[08Apr2025 15:29:39.925] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
-[08Apr2025 15:29:40.060] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
-[08Apr2025 15:29:40.379] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:29:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:29:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:29:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:29:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:29:40.381] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:29:41.275] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
-[08Apr2025 15:29:44.817] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
-[08Apr2025 15:29:44.821] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
-[08Apr2025 15:29:45.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
-[08Apr2025 15:29:45.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
-[08Apr2025 15:29:45.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
-[08Apr2025 15:29:45.915] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
-[08Apr2025 15:29:47.536] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
-[08Apr2025 15:29:47.919] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
-[08Apr2025 15:29:47.921] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
-[08Apr2025 15:29:48.179] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=26, z=-1220}
-[08Apr2025 15:29:49.036] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
-[08Apr2025 15:29:49.038] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
-[08Apr2025 15:29:49.489] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1230}
-[08Apr2025 15:29:49.489] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1230}
-[08Apr2025 15:29:49.490] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=25, z=-1221}
-[08Apr2025 15:29:49.491] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1226}
-[08Apr2025 15:29:50.266] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
-[08Apr2025 15:29:50.266] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
-[08Apr2025 15:29:50.266] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
-[08Apr2025 15:29:50.267] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
-[08Apr2025 15:29:50.267] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
-[08Apr2025 15:29:50.506] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
-[08Apr2025 15:29:52.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
-[08Apr2025 15:29:52.605] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-1227}
-[08Apr2025 15:29:53.616] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
-[08Apr2025 15:29:56.202] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
-[08Apr2025 15:29:56.203] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
-[08Apr2025 15:29:56.203] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
-[08Apr2025 15:29:56.203] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
-[08Apr2025 15:29:56.438] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
-[08Apr2025 15:29:56.861] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
-[08Apr2025 15:29:56.895] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
-[08Apr2025 15:29:57.913] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1243}
-[08Apr2025 15:29:57.914] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=26, z=-1241}
-[08Apr2025 15:29:57.921] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
-[08Apr2025 15:29:58.157] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
-[08Apr2025 15:30:16.816] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:30:16.817] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:30:16.817] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:30:16.817] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:30:16.818] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:30:16.818] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:30:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Into Fire]
-[08Apr2025 15:30:24.838] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:30:24.838] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:30:24.839] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:30:24.839] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:30:24.839] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:30:24.839] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:30:28.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
-[08Apr2025 15:30:28.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
-[08Apr2025 15:30:28.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
-[08Apr2025 15:30:28.592] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
-[08Apr2025 15:30:28.593] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
-[08Apr2025 15:30:28.593] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
-[08Apr2025 15:30:46.300] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:30:46.300] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:30:46.300] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:30:46.301] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:30:46.301] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:30:46.301] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:31:00.076] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:31:00.076] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:31:00.077] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:31:00.077] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:31:00.078] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:31:00.078] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:31:10.981] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[08Apr2025 15:31:59.399] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:31:59.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:31:59.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:31:59.400] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:31:59.401] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:31:59.401] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:32:02.472] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:32:02.472] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:32:02.472] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:32:02.472] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:32:02.473] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:32:02.473] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:32:05.347] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:32:05.347] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:32:05.348] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:32:05.348] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:32:05.348] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:32:05.348] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:32:16.477] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
-[08Apr2025 15:32:16.633] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
-[08Apr2025 15:32:18.255] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
-[08Apr2025 15:32:19.398] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:32:19.399] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:32:19.399] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:32:19.399] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:32:19.399] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:32:19.400] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:32:21.272] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
-[08Apr2025 15:32:21.290] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
-[08Apr2025 15:32:21.302] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
-[08Apr2025 15:32:21.302] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
-[08Apr2025 15:32:21.303] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
-[08Apr2025 15:32:21.303] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
-[08Apr2025 15:32:21.303] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
-[08Apr2025 15:32:21.353] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=26, z=-1220}
-[08Apr2025 15:32:21.354] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1230}
-[08Apr2025 15:32:21.354] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1230}
-[08Apr2025 15:32:21.355] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=25, z=-1221}
-[08Apr2025 15:32:21.355] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1226}
-[08Apr2025 15:32:21.365] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
-[08Apr2025 15:32:24.518] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
-[08Apr2025 15:32:24.648] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
-[08Apr2025 15:32:24.659] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
-[08Apr2025 15:32:26.900] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
-[08Apr2025 15:32:26.900] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
-[08Apr2025 15:32:26.911] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=26, z=-1220}
-[08Apr2025 15:32:26.912] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=25, z=-1221}
-[08Apr2025 15:32:26.928] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
-[08Apr2025 15:32:26.928] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
-[08Apr2025 15:32:26.928] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
-[08Apr2025 15:32:26.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1230}
-[08Apr2025 15:32:26.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1230}
-[08Apr2025 15:32:26.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1226}
-[08Apr2025 15:32:27.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
-[08Apr2025 15:32:29.841] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
-[08Apr2025 15:32:30.531] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
-[08Apr2025 15:32:31.215] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:32:31.216] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:32:31.217] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:32:31.217] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:32:31.218] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:32:31.219] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:32:34.246] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 15:32:34.259] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 15:32:52.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
-[08Apr2025 15:32:52.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55894, l='ServerLevel[world]', x=156.50, y=91.97, z=-1811.93] died, message: 'Unemployed suffocated in a wall'
-[08Apr2025 15:32:53.562] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[08Apr2025 15:33:21.967] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
-[08Apr2025 15:33:21.967] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
-[08Apr2025 15:33:21.968] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
-[08Apr2025 15:33:21.968] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
-[08Apr2025 15:33:21.968] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
-[08Apr2025 15:33:21.969] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
-[08Apr2025 15:33:37.324] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[08Apr2025 15:34:32.673] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 15:34:32.673] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 15:34:44.341] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 15:34:44.341] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 15:34:44.341] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 15:34:44.341] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 15:34:44.342] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 15:34:44.342] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 15:35:01.003] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:35:01.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:35:01.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:35:01.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:35:01.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:35:01.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:35:14.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
-[08Apr2025 15:35:14.801] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
-[08Apr2025 15:35:14.801] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
-[08Apr2025 15:35:14.801] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
-[08Apr2025 15:35:21.603] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 15:35:21.604] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 15:35:21.604] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 15:35:21.604] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 15:35:21.604] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 15:35:21.604] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 15:35:38.894] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
-[08Apr2025 15:35:38.895] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
-[08Apr2025 15:35:58.426] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
-[08Apr2025 15:35:58.427] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
-[08Apr2025 15:35:58.427] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
-[08Apr2025 15:35:58.427] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
-[08Apr2025 15:35:59.576] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 15:35:59.576] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 15:35:59.576] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 15:35:59.577] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 15:35:59.577] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 15:35:59.577] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 15:37:43.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Forlornliest Day of My Life]
-[08Apr2025 15:38:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [That is One Big Pile of...]
-[08Apr2025 15:38:59.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Forlornliest Day of My Life]
-[08Apr2025 15:38:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has reached the goal [Forlornliest Day of My Life]
-[08Apr2025 15:39:49.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Hans Moleman]
-[08Apr2025 15:40:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Corrodon't]
-[08Apr2025 15:40:34.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Chattering Teeth]
-[08Apr2025 15:40:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Bug Repellent]
-[08Apr2025 15:40:39.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Hans Moleman]
-[08Apr2025 15:40:39.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Hans Moleman]
-[08Apr2025 15:41:50.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [That is One Big Pile of...]
-[08Apr2025 15:43:20.434] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle_ruin], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:tower_ruin], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-875, y=72, z=-2315}
-[08Apr2025 15:43:20.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Got Lamps?]
-[08Apr2025 15:43:24.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
-[08Apr2025 15:44:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [That is One Big Pile of...]
-[08Apr2025 15:44:07.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Chattering Teeth]
-[08Apr2025 15:44:13.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ withered away
-[08Apr2025 15:44:13.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bb18_ with unique ID travelersbackpack.blaze_08.04.2025-15.44.13.dat
-[08Apr2025 15:44:13.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -623 Y: -4 Z: -2128
-[08Apr2025 15:45:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [The Black Parade]
-[08Apr2025 15:45:05.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has reached the goal [The Black Parade]
-[08Apr2025 15:46:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [It Belongs in a Museum]
-[08Apr2025 15:46:22.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
-[08Apr2025 15:47:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Creative Mode]
-[08Apr2025 15:48:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
-[08Apr2025 15:48:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
-[08Apr2025 15:48:51.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Bug Repellent]
-[08Apr2025 15:50:05.885] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 15:50:05.885] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 15:51:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Bug Repellent]
-[08Apr2025 15:51:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Corrodon't]
-[08Apr2025 15:53:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Got Lamps?]
-[08Apr2025 16:03:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [The Black Parade]
-[08Apr2025 16:05:39.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
-[08Apr2025 16:05:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
-[08Apr2025 16:05:47.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:40259] logged in with entity id 75191 at (-655.2136822208432, -20.0, -2263.4212030959784)
-[08Apr2025 16:05:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
-[08Apr2025 16:05:47.322] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
-[08Apr2025 16:05:56.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Got Lamps?]
-[08Apr2025 16:09:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Chattering Teeth]
-[08Apr2025 16:13:00.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved too quickly! 60.929585677252476,-16.99419815395251,-12.455473425164655
-[08Apr2025 16:13:04.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved wrongly!
-[08Apr2025 16:13:04.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved wrongly!
-[08Apr2025 16:13:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [This is my Boomstick]
-[08Apr2025 16:16:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:23.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:42.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas
-[08Apr2025 16:16:47.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope
-[08Apr2025 16:16:48.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope
-[08Apr2025 16:21:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope
-[08Apr2025 16:21:24.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope
-[08Apr2025 16:21:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * bb18_ le pezonea
-[08Apr2025 16:21:33.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:21:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:21:41.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:21:45.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:21:49.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:21:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:22:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * bb18_ le pezonea
-[08Apr2025 16:22:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas a tope escondido
-[08Apr2025 16:22:37.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le mojiganguea
-[08Apr2025 16:22:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * bb18_ le tarjetea
-[08Apr2025 16:22:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 y le pezonea
-[08Apr2025 16:22:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 y le pezonea
-[08Apr2025 16:22:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 y le pezonea
-[08Apr2025 16:22:54.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 y le pezonea
-[08Apr2025 16:22:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * bb18_ le tarjetea
-[08Apr2025 16:22:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * bb18_ le tarjetea
-[08Apr2025 16:23:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas al murcielago
-[08Apr2025 16:23:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * nicasexy_22 le hace mogigangas brutas al murcielago
-[08Apr2025 16:28:22.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
-[08Apr2025 16:28:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
-[08Apr2025 16:29:03.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b44b458[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:37829) lost connection: Disconnected
-[08Apr2025 16:29:34.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b3099c2[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:38697) lost connection: Disconnected
-[08Apr2025 16:29:40.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:35157] logged in with entity id 81479 at (-657.4975080638903, -29.0, -2266.1837210171816)
-[08Apr2025 16:29:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
-[08Apr2025 16:29:40.997] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
-[08Apr2025 16:45:45.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Corrodon't]
-[08Apr2025 16:48:26.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
-[08Apr2025 16:48:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
-[08Apr2025 16:54:01.591] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
-[08Apr2025 16:59:04.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 16:59:04.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 16:59:04.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 16:59:04.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 16:59:04.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 16:59:04.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 17:01:52.707] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 17:01:52.707] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 17:01:52.708] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 17:01:52.708] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 17:01:52.708] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 17:01:52.708] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 17:02:02.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 17:02:02.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 17:02:02.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 17:02:02.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 17:02:02.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 17:02:02.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 17:02:16.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
-[08Apr2025 17:02:19.400] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
-[08Apr2025 17:02:19.609] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
-[08Apr2025 17:02:23.314] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
-[08Apr2025 17:02:23.454] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
-[08Apr2025 17:02:30.690] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 17:02:30.691] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 17:02:30.692] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 17:02:30.692] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 17:02:30.693] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 17:02:30.693] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 17:02:30.696] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
-[08Apr2025 17:02:30.879] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
-[08Apr2025 17:02:30.894] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
-[08Apr2025 17:02:34.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
-[08Apr2025 17:02:34.163] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
-[08Apr2025 17:02:34.163] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
-[08Apr2025 17:02:34.163] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
-[08Apr2025 17:02:34.353] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=25, z=-1222}
-[08Apr2025 17:02:35.825] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
-[08Apr2025 17:02:36.134] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=26, z=-1226}
-[08Apr2025 17:02:36.134] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=26, z=-1224}
-[08Apr2025 17:02:37.014] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
-[08Apr2025 17:02:37.216] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
-[08Apr2025 17:02:37.217] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
-[08Apr2025 17:02:37.217] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
-[08Apr2025 17:02:37.291] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
-[08Apr2025 17:02:38.231] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
-[08Apr2025 17:02:43.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ moved wrongly!
-[08Apr2025 17:03:08.996] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
-[08Apr2025 17:03:08.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
-[08Apr2025 17:03:08.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
-[08Apr2025 17:03:08.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
-[08Apr2025 17:03:08.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
-[08Apr2025 17:03:08.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
-[08Apr2025 17:03:27.364] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 17:03:27.364] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[08Apr2025 17:03:31.183] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 17:03:31.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 17:03:31.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 17:03:31.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 17:03:31.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 17:03:31.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 17:03:36.423] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
-[08Apr2025 17:03:36.423] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
-[08Apr2025 17:03:36.423] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
-[08Apr2025 17:03:36.424] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
-[08Apr2025 17:03:46.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
-[08Apr2025 17:03:46.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
-[08Apr2025 17:03:46.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
-[08Apr2025 17:03:46.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
-[08Apr2025 17:03:46.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
-[08Apr2025 17:03:46.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
-[08Apr2025 17:03:58.181] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
-[08Apr2025 17:03:58.182] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
-[08Apr2025 17:03:58.182] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
-[08Apr2025 17:03:58.182] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
-[08Apr2025 17:03:58.182] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
-[08Apr2025 17:03:58.183] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
-[08Apr2025 17:11:32.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-4}
-[08Apr2025 17:11:35.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
-[08Apr2025 17:11:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
-[08Apr2025 17:11:59.711] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 17:11:59.711] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 17:11:59.712] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 17:11:59.712] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 17:11:59.712] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 17:11:59.713] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 17:19:37.834] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
-[08Apr2025 17:19:37.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
-[08Apr2025 17:19:37.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
-[08Apr2025 17:19:37.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
-[08Apr2025 17:19:37.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
-[08Apr2025 17:19:37.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
-[08Apr2025 17:29:33.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Bonfire Lit]
+[10Apr2025 13:04:42.734] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4420 advancements
+[10Apr2025 13:04:42.760] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[10Apr2025 13:04:42.769] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[10Apr2025 13:04:42.778] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[10Apr2025 13:04:42.854] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[10Apr2025 13:04:45.078] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[10Apr2025 13:04:45.157] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[10Apr2025 13:04:45.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Apr2025 13:04:45.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Apr2025 13:04:45.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Apr2025 13:04:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Apr2025 13:04:45.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Apr2025 13:04:45.695] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Apr2025 13:04:45.810] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Apr2025 13:04:45.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Apr2025 13:04:45.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Apr2025 13:04:45.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Apr2025 13:04:45.928] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Apr2025 13:04:45.936] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Apr2025 13:04:45.942] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Apr2025 13:04:47.067] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[10Apr2025 13:04:47.068] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[10Apr2025 13:04:47.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Apr2025 13:04:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Apr2025 13:05:01.395] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.397] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.398] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.399] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.401] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.403] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.404] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.404] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 13:05:01.904] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[10Apr2025 13:05:02.393] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[10Apr2025 13:05:02.459] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6566 ms
+[10Apr2025 13:05:02.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.633s)! For help, type "help"
+[10Apr2025 13:05:02.527] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Apr2025 13:05:02.555] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[10Apr2025 13:05:11.207] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[10Apr2025 13:05:18.002] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[10Apr2025 13:08:00.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:47429] logged in with entity id 97 at (-658.3988370799924, -19.0, -2250.699999988079)
+[10Apr2025 13:08:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[10Apr2025 13:08:00.530] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[10Apr2025 13:08:00.537] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[10Apr2025 13:08:09.197] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[10Apr2025 13:08:15.193] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[10Apr2025 13:08:18.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18112ms or 362 ticks behind
+[10Apr2025 13:08:21.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:50761] logged in with entity id 351 at (1604.157885668012, 73.0, 636.5777584353026)
+[10Apr2025 13:08:21.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[10Apr2025 13:08:21.518] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[10Apr2025 13:12:42.714] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[10Apr2025 13:12:42.715] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[10Apr2025 13:12:42.716] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[10Apr2025 13:12:42.716] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[10Apr2025 13:12:42.716] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[10Apr2025 13:12:42.716] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[10Apr2025 13:12:57.471] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[10Apr2025 13:12:57.472] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[10Apr2025 13:12:57.472] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[10Apr2025 13:12:57.472] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[10Apr2025 13:12:57.472] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[10Apr2025 13:12:57.473] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[10Apr2025 13:13:02.614] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[10Apr2025 13:13:02.616] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[10Apr2025 13:13:02.616] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[10Apr2025 13:13:02.617] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[10Apr2025 13:13:02.617] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[10Apr2025 13:13:02.618] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[10Apr2025 13:13:25.599] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[10Apr2025 13:13:25.600] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[10Apr2025 13:13:25.600] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[10Apr2025 13:13:25.600] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[10Apr2025 13:13:25.601] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[10Apr2025 13:13:25.601] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[10Apr2025 13:15:30.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[10Apr2025 13:16:37.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[10Apr2025 13:16:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game

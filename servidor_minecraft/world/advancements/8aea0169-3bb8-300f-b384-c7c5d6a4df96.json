@@ -6506,6 +6506,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-04-01 20:30:21 +0000",
+      "rice": "2025-04-08 17:30:09 +0000",
       "brown_mushroom": "2025-04-08 15:45:48 +0000",
       "potato": "2025-04-06 17:28:26 +0000",
       "wheat": "2025-04-06 17:29:49 +0000"
@@ -9008,21 +9009,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-04-08 16:45:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
+    "criteria": {
+      "has_planks": "2025-04-08 16:46:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-08 16:56:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-08 16:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-08 17:04:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_planks": {
     "criteria": {
       "has_logs": "2025-04-08 17:08:36 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
-      "has_ghast_tear": "2025-04-08 17:17:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_corrodent": {
-    "criteria": {
-      "killed": "2025-04-08 16:45:45 +0000"
+      "has_log": "2025-04-08 17:08:36 +0000"
     },
     "done": true
   },
@@ -9050,12 +9075,6 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_ghast_tear": "2025-04-08 17:17:02 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/umbran_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-08 17:11:40 +0000"
@@ -9080,30 +9099,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 17:08:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
-    "criteria": {
-      "has_planks": "2025-04-08 16:46:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-04-08 17:04:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-04-08 16:56:30 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/umbran_sign": {
     "criteria": {
       "has_planks": "2025-04-08 17:11:40 +0000"
@@ -9116,9 +9111,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
-      "has_rice": "2025-04-08 16:56:30 +0000"
+      "has_ghast_tear": "2025-04-08 17:17:02 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-04-08 17:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-08 17:29:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-08 17:29:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-08 17:30:09 +0000"
     },
     "done": true
   },
