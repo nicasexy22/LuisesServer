@@ -7638,3 +7638,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 15:51:15.368] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
 [10Apr2025 15:55:39.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 15:55:39.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 16:00:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Pest Control]
+[10Apr2025 16:00:39.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 16:00:39.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:03:31.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a83143cc-a5b7-449f-b594-7c42ec648fe7
+[10Apr2025 16:05:39.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 16:05:39.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 16:06:03.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[10Apr2025 16:06:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
