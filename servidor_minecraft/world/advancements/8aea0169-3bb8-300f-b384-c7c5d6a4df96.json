@@ -733,6 +733,7 @@
       "overgrown_greens": "2025-04-08 15:27:05 +0000",
       "mediterranean_forest": "2025-03-30 02:04:48 +0000",
       "coniferous_forest": "2025-04-08 15:30:24 +0000",
+      "spider_nest": "2025-04-10 13:49:01 +0000",
       "redwood_forest": "2025-03-30 01:55:45 +0000",
       "visceral_heap": "2025-04-05 18:35:50 +0000",
       "dune_beach": "2025-04-01 14:30:43 +0000",
@@ -9138,6 +9139,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-04-08 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-04-10 13:50:26 +0000"
     },
     "done": true
   },

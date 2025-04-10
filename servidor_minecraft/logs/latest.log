@@ -393,3 +393,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 13:15:30.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
 [10Apr2025 13:16:37.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
 [10Apr2025 13:16:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[10Apr2025 13:50:26.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has completed the challenge [It's Purple!]
