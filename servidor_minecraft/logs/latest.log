@@ -450,3 +450,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-42}
 [10Apr2025 15:13:29.291] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-54, z=-38}
 [10Apr2025 15:16:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Horror Under the Mantle]
+[10Apr2025 15:41:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Dark Forging]
+[10Apr2025 15:44:14.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[10Apr2025 15:44:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game

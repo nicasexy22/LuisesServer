@@ -7456,3 +7456,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 15:30:39.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Apr2025 15:35:39.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 15:35:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:40:39.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:40:39.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:41:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Dark Forging]
+[10Apr2025 15:44:14.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[10Apr2025 15:44:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[10Apr2025 15:45:39.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:45:39.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
