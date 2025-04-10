@@ -460,3 +460,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 16:00:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Pest Control]
 [10Apr2025 16:06:03.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
 [10Apr2025 16:06:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[10Apr2025 16:10:31.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[10Apr2025 16:10:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
