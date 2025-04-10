@@ -441,3 +441,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 14:56:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [I think we have a problem ?!]
 [10Apr2025 14:57:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Public Disturber !]
 [10Apr2025 15:03:05.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Wanted by the Legion !]
+[10Apr2025 15:12:42.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:12:42.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:12:42.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:12:43.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-405, y=-54, z=-38}
+[10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-34}
+[10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-42}
+[10Apr2025 15:13:29.291] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-54, z=-38}
+[10Apr2025 15:16:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Horror Under the Mantle]

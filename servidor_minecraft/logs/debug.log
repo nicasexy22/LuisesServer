@@ -7371,3 +7371,88 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 15:04:14.968] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [2e719f8d-9ac0-44a3-8551-b6b631e90b09]
 [10Apr2025 15:05:39.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 15:05:39.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:06:47.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 4b0754fa-d584-47bc-a028-aec70101b78a
+[10Apr2025 15:06:47.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 6fb12d3f-d38c-458a-96b4-dac66424458c
+[10Apr2025 15:06:47.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e5d0d63e-fc5d-4813-9b6a-3969109593dc
+[10Apr2025 15:06:47.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 79e0683b-6f54-48ca-ac58-07f05b083eb1
+[10Apr2025 15:06:47.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: ff1b8dd7-d7f7-4fb7-9020-0883f7dd4dce
+[10Apr2025 15:07:24.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 38e885c7-2b0b-403c-9866-233b41e6bec8
+[10Apr2025 15:07:24.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 38e885c7-2b0b-403c-9866-233b41e6bec8
+[10Apr2025 15:07:24.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 38e885c7-2b0b-403c-9866-233b41e6bec8
+[10Apr2025 15:07:24.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 38e885c7-2b0b-403c-9866-233b41e6bec8
+[10Apr2025 15:07:24.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 38e885c7-2b0b-403c-9866-233b41e6bec8
+[10Apr2025 15:07:52.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 29f25994-71b9-489e-9519-1876c8240fa5
+[10Apr2025 15:07:52.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:07:52.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:07:52.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:07:52.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:08:22.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 792ca91b-a52e-4f29-b006-401cffe92336
+[10Apr2025 15:08:22.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:08:22.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:08:22.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:08:22.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:34.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:34.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:34.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:34.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:34.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:51.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:51.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:51.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:51.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:09:51.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:10:25.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 0662ec27-973a-49ce-8f4a-70e70d28cd2c
+[10Apr2025 15:10:25.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 0662ec27-973a-49ce-8f4a-70e70d28cd2c
+[10Apr2025 15:10:25.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:10:25.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:10:25.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:10:39.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:10:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:10:59.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:12:42.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:12:42.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:12:42.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:12:43.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=10, z=663} BlockPos{x=198, y=15, z=666}
+[10Apr2025 15:13:27.229] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:13:27.229] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:13:27.229] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:13:27.229] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:13:27.229] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-405, y=-54, z=-38}
+[10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-34}
+[10Apr2025 15:13:28.430] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-42}
+[10Apr2025 15:13:29.291] [Worker-Main-52/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-54, z=-38}
+[10Apr2025 15:15:09.333] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[10Apr2025 15:15:39.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:15:39.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:16:03.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:03.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:03.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:03.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:03.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:29.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:29.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:29.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:29.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:29.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 452925c0-744e-4cb0-8311-996e6dbaa92d
+[10Apr2025 15:16:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Horror Under the Mantle]
+[10Apr2025 15:16:55.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:16:55.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:16:55.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:16:55.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:16:55.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:18:07.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:18:07.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:18:07.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:18:07.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:18:07.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2a0bd0b5-50d3-4619-af45-3ae848d8a5e8
+[10Apr2025 15:18:19.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[10Apr2025 15:20:39.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:20:39.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:21:35.027] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 66f8e992-ea14-4471-b152-9564bc6690d8
+[10Apr2025 15:25:39.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:25:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:30:39.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:30:39.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 15:35:39.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 15:35:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
