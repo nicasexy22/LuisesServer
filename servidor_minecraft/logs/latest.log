@@ -405,3 +405,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 14:04:35.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:57641] logged in with entity id 23301 at (1596.5685470903222, 72.0, 634.2541271418391)
 [10Apr2025 14:04:35.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [10Apr2025 14:04:35.604] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[10Apr2025 14:05:33.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[10Apr2025 14:05:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[10Apr2025 14:07:48.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:40447] logged in with entity id 23752 at (1596.242673290951, 72.0, 634.6677613658368)
+[10Apr2025 14:07:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[10Apr2025 14:07:48.858] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[10Apr2025 14:10:38.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[10Apr2025 14:10:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[10Apr2025 14:13:15.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [The Wind Darkening]
+[10Apr2025 14:14:06.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:49153] logged in with entity id 24856 at (1594.4146492340924, 72.0, 635.968745112589)
+[10Apr2025 14:14:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[10Apr2025 14:14:06.878] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[10Apr2025 14:15:08.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> bruno
