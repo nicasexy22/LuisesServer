@@ -9161,39 +9161,9 @@
     },
     "done": true
   },
-  "the_pillager_legion_:achiv_kill_25_legionnaire_tpl": {
-    "criteria": {
-      "achiv_kill_25_legionnaire_tpl_0": "2025-04-10 14:57:12 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-04-10 14:50:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-04-10 15:20:15 +0000"
-    },
-    "done": true
-  },
-  "the_pillager_legion_:achiv_get_legion_armor": {
-    "criteria": {
-      "achiv_get_legion_armor_3": "2025-04-10 15:00:12 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-04-10 15:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-10 15:20:15 +0000"
     },
     "done": true
   },
@@ -9203,15 +9173,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "the_pillager_legion_:achiv_kill_25_legionnaire_tpl": {
+    "criteria": {
+      "achiv_kill_25_legionnaire_tpl_0": "2025-04-10 14:57:12 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_get_legion_armor": {
+    "criteria": {
+      "achiv_get_legion_armor_3": "2025-04-10 15:00:12 +0000"
+    },
+    "done": false
+  },
+  "the_pillager_legion_:achiv_kill_50_legionnaire_tpl": {
+    "criteria": {
+      "achiv_kill_50_legionnaire_tpl_0": "2025-04-10 15:03:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-04-10 15:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-10 15:20:15 +0000"
     },
     "done": true
   },
-  "the_pillager_legion_:achiv_kill_50_legionnaire_tpl": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "achiv_kill_50_legionnaire_tpl_0": "2025-04-10 15:03:05 +0000"
+      "has_slime_ball": "2025-04-10 15:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 15:20:15 +0000"
     },
     "done": true
   },

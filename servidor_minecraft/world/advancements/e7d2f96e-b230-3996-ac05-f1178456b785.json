@@ -3309,7 +3309,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-04-01 18:16:33 +0000",
-      "sugar_cane": "2025-04-01 17:54:52 +0000"
+      "sugar_cane": "2025-04-01 17:54:52 +0000",
+      "wheat": "2025-04-10 15:49:44 +0000"
     },
     "done": false
   },
@@ -9664,6 +9665,12 @@
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-04-10 14:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-10 15:49:44 +0000"
     },
     "done": true
   },
