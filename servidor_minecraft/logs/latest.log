@@ -417,3 +417,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 14:14:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [10Apr2025 14:14:06.878] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
 [10Apr2025 14:15:08.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> bruno
+[10Apr2025 14:38:35.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Those Were the Days]
+[10Apr2025 14:38:35.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=64, z=72} BlockPos{x=193, y=61, z=72}
+[10Apr2025 14:39:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [War Pigs]
+[10Apr2025 14:45:43.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Who is Cutting Onions?]
