@@ -366,3 +366,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 21:57:10.011] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [12Apr2025 21:57:17.743] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [12Apr2025 21:57:20.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21927ms or 438 ticks behind
+[12Apr2025 22:50:58.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:55897] logged in with entity id 14438 at (1818.286843060436, 63.0, 592.3094701564638)
+[12Apr2025 22:50:58.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[12Apr2025 22:50:58.947] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[12Apr2025 22:53:07.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> samuel tienes 1 de oro_
+[12Apr2025 22:53:12.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> yes
+[12Apr2025 22:53:20.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> me das
+[12Apr2025 22:53:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> voy
+[12Apr2025 22:53:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> son 6
+[12Apr2025 22:53:52.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> si
+[12Apr2025 22:55:33.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> me los traes q tu te mueves mas rapido
+[12Apr2025 22:55:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> ya estaba yendo
+[12Apr2025 22:57:31.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> no les pegues
+[12Apr2025 22:57:34.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> xd
+[12Apr2025 22:58:31.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> gracias
+[12Apr2025 22:58:39.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> iba a enseñartelo
+[12Apr2025 22:58:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> no te atacan
+[12Apr2025 22:58:44.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> aaa
+[12Apr2025 22:58:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> si no les atacas
+[12Apr2025 22:59:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> toma
+[12Apr2025 22:59:10.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> como compensación
+[12Apr2025 22:59:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> mira
+[12Apr2025 22:59:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> mis puertas
+[12Apr2025 23:00:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> mira
+[12Apr2025 23:00:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> dame
+[12Apr2025 23:00:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> las puertas
+[12Apr2025 23:00:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> me piro
+[12Apr2025 23:01:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> okey gracias
+[12Apr2025 23:01:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> uwu
+[12Apr2025 23:01:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> callate
+[12Apr2025 23:01:34.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> jajaja

@@ -6510,6 +6510,7 @@
       "glow_berries": "2025-04-01 20:30:21 +0000",
       "rice": "2025-04-08 17:30:09 +0000",
       "brown_mushroom": "2025-04-08 15:45:48 +0000",
+      "sugar_cane": "2025-04-12 23:07:21 +0000",
       "potato": "2025-04-06 17:28:26 +0000",
       "wheat": "2025-04-06 17:29:49 +0000"
     },
@@ -9218,6 +9219,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
       "rat_upgrade_basic": "2025-04-10 16:00:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-04-12 22:57:11 +0000"
     },
     "done": true
   },
