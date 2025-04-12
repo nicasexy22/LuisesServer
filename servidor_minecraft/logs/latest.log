@@ -432,3 +432,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 20:17:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has reached the goal [Flowers of the Savanna]
 [12Apr2025 20:22:35.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: valdellos lost connection: Disconnected
 [12Apr2025 20:22:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos left the game
+[12Apr2025 20:27:41.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: valdellos[/127.242.121.78:33067] logged in with entity id 52377 at (952.6882947338279, 69.0, 542.5227255699068)
+[12Apr2025 20:27:41.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos joined the game
+[12Apr2025 20:27:41.569] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[12Apr2025 20:27:41.570] [Server thread/INFO] [Jade/]: Syncing config to valdellos (a7919ec6-a0b7-3bee-929d-4f949b99986f)
+[12Apr2025 20:28:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Stampy!]
