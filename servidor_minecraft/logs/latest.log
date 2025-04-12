@@ -440,3 +440,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 20:47:18.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/53860, l='ServerLevel[world]', x=981.18, y=63.00, z=670.15] died, message: 'Farmer was slain by Equestrian'
 [12Apr2025 20:48:23.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Amateur Archaeologist]
 [12Apr2025 21:04:10.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/52567, l='ServerLevel[world]', x=920.06, y=62.90, z=600.68] died, message: 'Farmer was slain by valdellos'
+[12Apr2025 21:11:36.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: valdellos lost connection: Disconnected
+[12Apr2025 21:11:36.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos left the game
