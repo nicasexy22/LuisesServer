@@ -371,3 +371,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 18:45:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> estoy en discord por si te quieres meter
 [12Apr2025 18:50:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Stone Age]
 [12Apr2025 18:50:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Getting an Upgrade]
+[12Apr2025 18:53:19.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Acquire Hardware]
+[12Apr2025 18:55:50.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Sweet Dreams]
+[12Apr2025 19:00:45.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Suit Up]
