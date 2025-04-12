@@ -404,3 +404,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 19:28:52.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1842, y=63, z=562} BlockPos{x=1844, y=64, z=565}
 [12Apr2025 19:28:54.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1847, y=64, z=567} BlockPos{x=1846, y=63, z=566}
 [12Apr2025 19:29:04.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1847, y=66, z=565} BlockPos{x=1847, y=66, z=564}
+[12Apr2025 19:37:43.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.2893617626706373
+[12Apr2025 19:37:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.6141355801449322
+[12Apr2025 19:39:06.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.35119962325677534
+[12Apr2025 19:39:06.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.7757266946059644
+[12Apr2025 19:46:57.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.3618276905582718
+[12Apr2025 19:46:57.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.7542044131531611
+[12Apr2025 19:48:48.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Timed out
+[12Apr2025 19:48:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[12Apr2025 19:50:03.272] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b787256[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:37917) lost connection: Disconnected
+[12Apr2025 19:50:37.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:54925] logged in with entity id 37217 at (1832.0387842484204, 63.0, 592.4590191998296)
+[12Apr2025 19:50:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[12Apr2025 19:50:37.982] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)

@@ -1139,6 +1139,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-04-12 19:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-12 18:50:17 +0000"
@@ -1477,7 +1483,9 @@
       "jacaranda_glade": "2025-04-12 18:48:48 +0000",
       "old_growth_woodland": "2025-04-12 18:58:02 +0000",
       "mediterranean_forest": "2025-04-12 18:53:21 +0000",
+      "redwood_forest": "2025-04-12 19:46:11 +0000",
       "lavender_field": "2025-04-12 18:48:36 +0000",
+      "prairie": "2025-04-12 19:42:03 +0000",
       "rainforest": "2025-04-12 19:13:49 +0000"
     },
     "done": false
