@@ -442,3 +442,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 21:04:10.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/52567, l='ServerLevel[world]', x=920.06, y=62.90, z=600.68] died, message: 'Farmer was slain by valdellos'
 [12Apr2025 21:11:36.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: valdellos lost connection: Disconnected
 [12Apr2025 21:11:36.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos left the game
+[12Apr2025 21:34:56.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: valdellos[/127.242.121.78:48863] logged in with entity id 62733 at (925.7186517726548, 64.0, 581.3475216589558)
+[12Apr2025 21:34:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos joined the game
+[12Apr2025 21:34:56.127] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[12Apr2025 21:34:56.127] [Server thread/INFO] [Jade/]: Syncing config to valdellos (a7919ec6-a0b7-3bee-929d-4f949b99986f)
+[12Apr2025 21:37:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Monster Hunter]
+[12Apr2025 21:39:29.975] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:39:36.475] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:39:51.978] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:39:56.880] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:40:09.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:44:06.632] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:44:08.279] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
+[12Apr2025 21:44:23.631] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/61096, l='ServerLevel[world]', x=965.54, y=67.08, z=415.93, removed=DISCARDED]
