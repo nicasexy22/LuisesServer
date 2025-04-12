@@ -2443,6 +2443,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
@@ -2452,6 +2470,18 @@
   "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:19 +0000"
     },
     "done": true
   },
@@ -2467,6 +2497,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-04-12 20:28:03 +0000"
@@ -2476,6 +2512,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
     },
     "done": true
   },
@@ -2503,9 +2545,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
     },
     "done": true
   },
@@ -2539,6 +2593,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-12 20:42:26 +0000"
@@ -2563,9 +2629,51 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-12 20:48:49 +0000"
     },
     "done": true
   },
@@ -2590,6 +2698,12 @@
   "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-12 20:48:46 +0000"
     },
     "done": true
   },
@@ -2635,6 +2749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
@@ -2647,9 +2767,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
     },
     "done": true
   },
@@ -2677,9 +2815,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-12 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-12 20:48:49 +0000"
     },
     "done": true
   },
@@ -2689,15 +2839,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-12 20:48:49 +0000"
     },
     "done": true
   },
@@ -2731,6 +2905,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-04-12 20:42:26 +0000"
@@ -2740,6 +2926,24 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-04-12 20:49:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
     },
     "done": true
   },
@@ -2761,9 +2965,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
     },
     "done": true
   },
@@ -2782,6 +3010,36 @@
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 20:28:03 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-12 20:48:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-12 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-12 20:48:19 +0000"
     },
     "done": true
   },

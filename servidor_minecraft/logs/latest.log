@@ -437,3 +437,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 20:27:41.569] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
 [12Apr2025 20:27:41.570] [Server thread/INFO] [Jade/]: Syncing config to valdellos (a7919ec6-a0b7-3bee-929d-4f949b99986f)
 [12Apr2025 20:28:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Stampy!]
+[12Apr2025 20:47:18.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/53860, l='ServerLevel[world]', x=981.18, y=63.00, z=670.15] died, message: 'Farmer was slain by Equestrian'
+[12Apr2025 20:48:23.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Amateur Archaeologist]
