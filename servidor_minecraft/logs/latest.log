@@ -395,3 +395,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 19:16:00.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.2661572910324139
 [12Apr2025 19:16:00.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.4822464673129616
 [12Apr2025 19:19:31.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Isn't It Iron Pick]
+[12Apr2025 19:25:08.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.37085647066896854
+[12Apr2025 19:25:08.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.7859693817263178
+[12Apr2025 19:25:09.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 1.201380660076211
+[12Apr2025 19:25:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Mine? Mine? Mine?]
+[12Apr2025 19:28:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> no os escucho
+[12Apr2025 19:28:52.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1842, y=63, z=562} BlockPos{x=1844, y=64, z=565}
+[12Apr2025 19:28:52.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1842, y=63, z=562} BlockPos{x=1844, y=64, z=565}
+[12Apr2025 19:28:54.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1847, y=64, z=567} BlockPos{x=1846, y=63, z=566}
+[12Apr2025 19:29:04.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1847, y=66, z=565} BlockPos{x=1847, y=66, z=564}
