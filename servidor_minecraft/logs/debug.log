@@ -6499,3 +6499,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 19:10:48.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1812, y=65, z=585} BlockPos{x=1812, y=64, z=584}
 [12Apr2025 19:10:49.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1811, y=66, z=584} BlockPos{x=1810, y=66, z=585}
 [12Apr2025 19:11:28.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1808, y=66, z=575} BlockPos{x=1807, y=67, z=575}
+[12Apr2025 19:13:02.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1830, y=66, z=564} BlockPos{x=1834, y=65, z=562}
+[12Apr2025 19:13:02.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1830, y=66, z=564} BlockPos{x=1834, y=65, z=562}
+[12Apr2025 19:13:02.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1830, y=66, z=564} BlockPos{x=1834, y=65, z=562}
+[12Apr2025 19:13:41.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:13:41.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:13:45.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.3935444758558333
+[12Apr2025 19:13:45.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.8250917894661143
+[12Apr2025 19:16:00.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.2661572910324139
+[12Apr2025 19:16:00.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.4822464673129616
+[12Apr2025 19:18:41.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:18:41.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:19:31.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Isn't It Iron Pick]
