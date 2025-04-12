@@ -965,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-12 19:50:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
     "criteria": {
       "has_white_wool": "2025-04-12 19:14:52 +0000"
@@ -1463,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-12 19:54:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-12 18:48:05 +0000"
@@ -1482,8 +1494,11 @@
       "highland": "2025-04-12 18:49:22 +0000",
       "jacaranda_glade": "2025-04-12 18:48:48 +0000",
       "old_growth_woodland": "2025-04-12 18:58:02 +0000",
+      "orchard": "2025-04-12 19:57:19 +0000",
+      "overgrown_greens": "2025-04-12 19:55:42 +0000",
       "mediterranean_forest": "2025-04-12 18:53:21 +0000",
       "redwood_forest": "2025-04-12 19:46:11 +0000",
+      "dune_beach": "2025-04-12 19:59:05 +0000",
       "lavender_field": "2025-04-12 18:48:36 +0000",
       "prairie": "2025-04-12 19:42:03 +0000",
       "rainforest": "2025-04-12 19:13:49 +0000"
@@ -1541,6 +1556,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
     "criteria": {
       "has_white_wool": "2025-04-12 19:14:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-04-12 19:54:51 +0000"
     },
     "done": true
   },

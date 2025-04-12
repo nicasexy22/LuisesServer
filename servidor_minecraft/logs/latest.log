@@ -416,3 +416,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 19:50:37.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:54925] logged in with entity id 37217 at (1832.0387842484204, 63.0, 592.4590191998296)
 [12Apr2025 19:50:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [12Apr2025 19:50:37.982] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[12Apr2025 19:54:14.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.4091589322653135
+[12Apr2025 19:54:14.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.8364336030961113
+[12Apr2025 19:55:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.32119529223069776
+[12Apr2025 19:55:49.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.7422482975812272
+[12Apr2025 20:01:47.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.3874411912184428
+[12Apr2025 20:01:47.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.8013862484610854
+[12Apr2025 20:02:39.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Timed out
+[12Apr2025 20:02:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[12Apr2025 20:03:12.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:47617] logged in with entity id 45676 at (1584.5816671780017, 71.0, 646.6589064782379)
+[12Apr2025 20:03:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[12Apr2025 20:03:12.308] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
