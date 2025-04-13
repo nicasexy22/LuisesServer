@@ -366,3 +366,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 15:02:25.136] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [13Apr2025 15:02:31.733] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [13Apr2025 15:02:34.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19228ms or 384 ticks behind
+[13Apr2025 15:56:38.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[13Apr2025 15:56:38.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
