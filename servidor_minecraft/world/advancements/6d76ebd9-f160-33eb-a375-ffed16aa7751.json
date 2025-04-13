@@ -6118,7 +6118,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "brown_mushroom": "2025-04-08 15:43:53 +0000",
-      "sugar_cane": "2025-04-13 03:05:35 +0000"
+      "sugar_cane": "2025-04-13 03:05:35 +0000",
+      "wheat": "2025-04-13 13:37:30 +0000"
     },
     "done": false
   },
@@ -6513,6 +6514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-13 13:55:10 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/purple_sleeping_bag": {
     "criteria": {
       "has_purple_wool": "2025-04-13 13:35:42 +0000"
@@ -6567,9 +6574,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-13 13:55:10 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-13 13:55:10 +0000"
     },
     "done": true
   },
@@ -6624,6 +6643,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-04-13 13:56:27 +0000"
     },
     "done": true
   },
@@ -6708,6 +6733,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-13 13:37:30 +0000"
     },
     "done": true
   },
