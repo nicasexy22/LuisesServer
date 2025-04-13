@@ -493,3 +493,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 01:47:49.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39125, l='ServerLevel[world]', x=936.40, y=64.00, z=487.39] died, message: 'Unemployed was slain by valdellos'
 [13Apr2025 01:47:51.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39126, l='ServerLevel[world]', x=936.68, y=64.00, z=487.32] died, message: 'Unemployed was slain by valdellos'
 [13Apr2025 01:47:53.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39127, l='ServerLevel[world]', x=936.51, y=64.00, z=487.49] died, message: 'Unemployed was slain by valdellos'
+[13Apr2025 01:52:25.168] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[13Apr2025 01:53:43.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 was slain by Obsidilith
+[13Apr2025 01:53:43.268] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nicasexy_22 with unique ID travelersbackpack.squid_13.04.2025-01.53.43.dat
+[13Apr2025 01:53:43.271] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1020 Y: 135 Z: -562
+[13Apr2025 01:53:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Obsidian Obliterator]

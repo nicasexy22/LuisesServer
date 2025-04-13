@@ -9704,9 +9704,39 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2025-04-13 01:53:44 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-04-13 01:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-13 01:54:07 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-04-13 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-04-13 01:55:07 +0000"
     },
     "done": true
   },
@@ -9722,9 +9752,27 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/stripped_spruce_post": {
+    "criteria": {
+      "has_item": "2025-04-13 01:54:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
       "has_wolf": "2025-04-13 00:43:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-04-13 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-04-13 01:55:07 +0000"
     },
     "done": true
   },

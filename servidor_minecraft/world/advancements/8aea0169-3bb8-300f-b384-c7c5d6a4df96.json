@@ -9602,6 +9602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-13 01:45:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_umbran_wood": {
     "criteria": {
       "has_log": "2025-04-13 01:24:39 +0000"
