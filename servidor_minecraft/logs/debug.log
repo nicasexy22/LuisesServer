@@ -7421,3 +7421,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 01:35:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> nico, para el tp una enderperl
 [13Apr2025 01:35:48.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> va
 [13Apr2025 01:36:04.469] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:stronghold took 10 ms
+[13Apr2025 01:39:58.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 01:39:58.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 01:42:28.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <valdellos> samuel
+[13Apr2025 01:44:58.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 01:44:58.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 01:45:15.619] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element bosses_of_mass_destruction:obsidilith_arena took 0 ms
+[13Apr2025 01:47:44.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39124, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by valdellos'
+[13Apr2025 01:47:49.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39125, l='ServerLevel[world]', x=936.40, y=64.00, z=487.39] died, message: 'Unemployed was slain by valdellos'
+[13Apr2025 01:47:51.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39126, l='ServerLevel[world]', x=936.68, y=64.00, z=487.32] died, message: 'Unemployed was slain by valdellos'
+[13Apr2025 01:47:53.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39127, l='ServerLevel[world]', x=936.51, y=64.00, z=487.49] died, message: 'Unemployed was slain by valdellos'
