@@ -9223,6 +9223,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-04-12 22:57:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-12 23:40:45 +0000"
@@ -9277,12 +9283,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2025-04-12 22:57:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-12 23:40:45 +0000"
@@ -9325,18 +9325,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-04-12 23:44:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-13 00:03:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-12 23:40:45 +0000"
@@ -9352,6 +9340,174 @@
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-12 23:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-12 23:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-13 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-13 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-13 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-04-13 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-04-13 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-13 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-04-13 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-13 00:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-13 00:26:15 +0000"
     },
     "done": true
   },

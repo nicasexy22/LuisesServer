@@ -9698,5 +9698,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-13 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-04-13 00:43:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
