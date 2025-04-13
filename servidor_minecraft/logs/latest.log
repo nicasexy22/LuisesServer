@@ -381,3 +381,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 02:40:23.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:57067] logged in with entity id 1531 at (2335.520690392295, 72.0, 648.0347860472349)
 [13Apr2025 02:40:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
 [13Apr2025 02:40:23.256] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[13Apr2025 02:47:16.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli fell from a high place
+[13Apr2025 02:47:16.431] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Foxyfolli with unique ID travelersbackpack.squid_13.04.2025-02.47.16.dat
+[13Apr2025 02:47:16.435] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1858 Y: 51 Z: 537
+[13Apr2025 02:47:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has reached the goal [Hunted]
+[13Apr2025 02:56:42.260] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-405, y=-54, z=-38}
+[13Apr2025 02:56:42.261] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-34}
+[13Apr2025 02:56:42.261] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-54, z=-38}
+[13Apr2025 02:56:42.261] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-42}
+[13Apr2025 02:57:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [The Parrots and the Bats]

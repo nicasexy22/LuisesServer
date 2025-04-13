@@ -5032,7 +5032,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-04 17:09:33 +0000"
+      "minecraft:crimson_forest": "2025-04-13 02:56:57 +0000",
+      "minecraft:nether_wastes": "2025-04-04 17:09:33 +0000",
+      "minecraft:warped_forest": "2025-04-13 02:53:14 +0000"
     },
     "done": false
   },
