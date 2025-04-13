@@ -422,3 +422,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 01:08:30.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:52095] logged in with entity id 19878 at (1833.1450423093695, 63.0, 587.4774427786347)
 [13Apr2025 01:08:30.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [13Apr2025 01:08:30.546] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[13Apr2025 01:08:57.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> porque no se me separa la mira de los mobs
+[13Apr2025 01:09:09.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Timed out
+[13Apr2025 01:09:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[13Apr2025 01:10:35.744] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2dd9d43d[id=<null>,name=Foxyfolli,properties={},legacy=false] (/127.148.36.196:59389) lost connection: Disconnected
+[13Apr2025 01:10:45.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:36509] logged in with entity id 21113 at (1833.1450423093695, 63.0, 587.4774427786347)
+[13Apr2025 01:10:45.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[13Apr2025 01:10:45.899] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[13Apr2025 01:12:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> srry
+[13Apr2025 01:12:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> srry
+[13Apr2025 01:13:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> le di sin kererrrrr
+[13Apr2025 01:13:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> srry
+[13Apr2025 01:18:06.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: valdellos[/127.182.76.168:39003] logged in with entity id 24139 at (889.8570858336219, 64.0, 459.23956341296076)
+[13Apr2025 01:18:06.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos joined the game
+[13Apr2025 01:18:06.804] [Server thread/INFO] [Jade/]: Syncing config to valdellos (a7919ec6-a0b7-3bee-929d-4f949b99986f)
+[13Apr2025 01:18:11.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> ojo
+[13Apr2025 01:18:11.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> que matao
+[13Apr2025 01:18:15.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> 0 fp
+[13Apr2025 01:18:16.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> porque se llama valdellos
+[13Apr2025 01:18:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> 0 fps
+[13Apr2025 01:18:19.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> vaya npc
+[13Apr2025 01:28:53.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> que haceis aqui
+[13Apr2025 01:28:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> liarla
+[13Apr2025 01:29:07.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> no aguanto nada ahora
+[13Apr2025 01:29:09.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> aviso
+[13Apr2025 01:29:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> por

@@ -9601,5 +9601,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_umbran_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 01:24:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-13 01:24:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
