@@ -498,3 +498,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 01:53:43.268] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nicasexy_22 with unique ID travelersbackpack.squid_13.04.2025-01.53.43.dat
 [13Apr2025 01:53:43.271] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1020 Y: 135 Z: -562
 [13Apr2025 01:53:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Obsidian Obliterator]
+[13Apr2025 02:19:27.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/70095, l='ServerLevel[world]', x=896.38, y=64.23, z=626.50] died, message: 'Farmer was slain by Zombie Bruiser'
+[13Apr2025 02:20:18.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Surge Protector]
+[13Apr2025 02:21:17.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has reached the goal [Exorcism]
+[13Apr2025 02:22:55.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Exorcism]
+[13Apr2025 02:30:28.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.30840058819330807
+[13Apr2025 02:30:28.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of valdellos) moved wrongly! 0.7161719248676945
+[13Apr2025 02:30:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos has made the advancement [Hot Stuff]
