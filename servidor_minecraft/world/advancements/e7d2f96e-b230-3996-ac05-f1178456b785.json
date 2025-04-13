@@ -9698,6 +9698,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 01:33:44 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-04-13 00:52:38 +0000"
@@ -9707,6 +9713,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed": "2025-04-13 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 01:33:44 +0000"
     },
     "done": true
   },
