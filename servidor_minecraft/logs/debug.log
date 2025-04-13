@@ -6524,3 +6524,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 14:11:56.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Apr2025 14:16:56.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 14:16:56.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 14:21:56.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 14:21:56.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 14:26:48.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[13Apr2025 14:26:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[13Apr2025 14:26:56.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 14:26:56.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
