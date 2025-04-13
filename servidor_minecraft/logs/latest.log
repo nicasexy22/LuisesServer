@@ -390,3 +390,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 23:28:21.019] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 10s
 [13Apr2025 23:30:20.454] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 13s
 [13Apr2025 23:31:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was shot by nicasexy_22
+[13Apr2025 23:40:08.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[13Apr2025 23:41:11.308] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 11s
+[13Apr2025 23:43:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [A Seedy Place]
