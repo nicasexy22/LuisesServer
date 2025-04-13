@@ -6495,5 +6495,227 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_curtain": {
+    "criteria": {
+      "has_item": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-04-13 13:30:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_mangrove_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-04-13 13:30:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-04-13 13:30:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_cherry_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_jungle_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_jungle_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_jungle_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-04-13 13:30:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_stool": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_warped_chair": {
+    "criteria": {
+      "has_purple_wool": "2025-04-13 13:35:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

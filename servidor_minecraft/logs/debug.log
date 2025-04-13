@@ -6479,3 +6479,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 13:28:56.996] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [13Apr2025 13:28:57.011] [Server thread/DEBUG] [mixin/]: Mixing AdvancementBehaviourAccessor from create_dragon_lib.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
 [13Apr2025 13:28:57.011] [Server thread/DEBUG] [mixin/]: create_dragon_lib.mixins.json:AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13Apr2025 13:30:14.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Capsid-19]
+[13Apr2025 13:30:17.756] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$70de51576d074ddf8eff01833af7b3fa (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[13Apr2025 13:31:56.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 13:31:56.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 13:33:58.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:33:58.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1e4c2f96-5185-4fde-a8d4-af3b837c1b44
+[13Apr2025 13:36:56.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 13:36:56.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 13:37:30.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [A Seedy Place]
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.415] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8
+[13Apr2025 13:38:23.415] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: af4a649d-bcd0-4b36-886d-3380bbfdadd8

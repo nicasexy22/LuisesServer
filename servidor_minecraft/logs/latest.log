@@ -368,3 +368,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 13:24:44.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:43133] logged in with entity id 650 at (2294.3095895485476, 67.0, 673.6999999880791)
 [13Apr2025 13:24:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
 [13Apr2025 13:24:44.577] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[13Apr2025 13:30:14.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Capsid-19]
+[13Apr2025 13:37:30.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [A Seedy Place]
