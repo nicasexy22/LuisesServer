@@ -384,3 +384,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 23:23:07.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:56499] logged in with entity id 5423 at (2301.1169673811796, 73.0, 640.6999999880791)
 [13Apr2025 23:23:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
 [13Apr2025 23:23:07.429] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[13Apr2025 23:27:20.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> pollita xd
+[13Apr2025 23:27:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Creative Mode]
+[13Apr2025 23:28:06.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[13Apr2025 23:28:21.019] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 10s
+[13Apr2025 23:30:20.454] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 13s
+[13Apr2025 23:31:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was shot by nicasexy_22

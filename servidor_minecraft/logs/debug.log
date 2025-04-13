@@ -6694,3 +6694,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 23:23:36.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 23:23:36.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Apr2025 23:26:22.149] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$d3a2f68490d34600ab8e556f99cc4490 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[13Apr2025 23:27:20.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bb18_> pollita xd
+[13Apr2025 23:27:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Creative Mode]
+[13Apr2025 23:28:06.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[13Apr2025 23:28:21.019] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 10s
+[13Apr2025 23:28:36.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:28:36.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:30:20.454] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:magnetic_caves after 13s
+[13Apr2025 23:31:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was shot by nicasexy_22
+[13Apr2025 23:33:36.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:33:36.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
