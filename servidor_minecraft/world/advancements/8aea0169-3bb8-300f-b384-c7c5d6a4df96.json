@@ -9627,5 +9627,17 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_veridium_slab": "2025-04-13 14:32:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_recycling": {
+    "criteria": {
+      "has_cut_veridium_slab": "2025-04-13 14:32:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
