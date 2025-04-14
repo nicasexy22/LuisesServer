@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-14 01:25:04 +0000",
       "minecraft:taiga": "2025-04-08 16:58:05 +0000",
+      "minecraft:frozen_river": "2025-04-14 01:34:16 +0000",
       "minecraft:birch_forest": "2025-04-08 15:24:40 +0000",
       "minecraft:wooded_badlands": "2025-03-30 02:23:22 +0000",
       "minecraft:bamboo_jungle": "2025-04-06 15:01:49 +0000",
@@ -50,17 +51,22 @@
       "minecraft:lukewarm_ocean": "2025-03-30 01:59:43 +0000",
       "minecraft:river": "2025-03-30 01:50:16 +0000",
       "minecraft:stony_shore": "2025-04-01 19:12:46 +0000",
+      "minecraft:snowy_plains": "2025-04-14 01:36:30 +0000",
+      "minecraft:snowy_taiga": "2025-04-14 01:39:41 +0000",
       "minecraft:jagged_peaks": "2025-04-14 01:25:01 +0000",
       "minecraft:forest": "2025-04-08 15:32:57 +0000",
       "minecraft:lush_caves": "2025-04-05 16:35:04 +0000",
+      "minecraft:frozen_ocean": "2025-04-14 01:34:13 +0000",
       "minecraft:desert": "2025-03-30 02:17:16 +0000",
       "minecraft:ocean": "2025-04-01 17:47:58 +0000",
       "minecraft:jungle": "2025-04-08 00:05:31 +0000",
+      "minecraft:snowy_beach": "2025-04-14 01:36:33 +0000",
       "minecraft:windswept_savanna": "2025-03-30 01:47:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-30 02:04:59 +0000",
       "minecraft:flower_forest": "2025-04-14 01:19:51 +0000",
       "minecraft:frozen_peaks": "2025-04-14 01:31:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-08 17:03:06 +0000",
+      "minecraft:deep_dark": "2025-04-14 01:44:38 +0000",
       "minecraft:savanna": "2025-04-01 17:48:28 +0000",
       "minecraft:plains": "2025-04-01 17:45:29 +0000"
     },
@@ -703,6 +709,7 @@
       "jade_cliffs": "2025-04-01 19:09:38 +0000",
       "wetland": "2025-04-08 15:28:31 +0000",
       "mystic_grove": "2025-04-08 15:31:20 +0000",
+      "cold_desert": "2025-04-14 01:36:26 +0000",
       "old_growth_woodland": "2025-04-01 18:27:20 +0000",
       "crystalline_chasm": "2025-04-10 14:58:13 +0000",
       "withered_abyss": "2025-04-04 17:09:55 +0000",
@@ -712,18 +719,23 @@
       "mediterranean_forest": "2025-04-01 17:48:13 +0000",
       "coniferous_forest": "2025-04-08 15:26:47 +0000",
       "forested_field": "2025-04-08 15:30:46 +0000",
+      "spider_nest": "2025-04-14 01:43:00 +0000",
       "redwood_forest": "2025-04-08 15:24:56 +0000",
       "visceral_heap": "2025-04-05 18:35:30 +0000",
       "dune_beach": "2025-04-01 17:47:49 +0000",
+      "auroral_garden": "2025-04-14 01:40:52 +0000",
       "rocky_rainforest": "2025-03-30 02:02:47 +0000",
       "volcanic_plains": "2025-03-30 02:01:25 +0000",
       "lavender_field": "2025-03-30 01:50:20 +0000",
       "fir_clearing": "2025-04-08 15:27:42 +0000",
       "prairie": "2025-03-30 01:49:32 +0000",
+      "snowy_fir_clearing": "2025-04-14 01:40:50 +0000",
+      "tundra": "2025-04-14 01:33:39 +0000",
       "glowing_grotto": "2025-04-08 13:03:05 +0000",
       "undergrowth": "2025-04-10 15:05:46 +0000",
       "rainforest": "2025-03-30 01:58:39 +0000",
-      "crag": "2025-04-08 15:31:21 +0000"
+      "crag": "2025-04-08 15:31:21 +0000",
+      "snowy_maple_woods": "2025-04-14 01:42:26 +0000"
     },
     "done": false
   },
@@ -10109,6 +10121,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-04-14 01:47:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_stool": {
     "criteria": {
       "has_brown_wool": "2025-04-14 01:18:13 +0000"
@@ -10148,6 +10166,12 @@
   "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
+    "criteria": {
+      "has_icy_iris": "2025-04-14 01:41:24 +0000"
     },
     "done": true
   },
@@ -10259,6 +10283,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2025-04-14 01:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
@@ -10298,6 +10334,13 @@
   "valhelsia_structures:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-04-14 01:47:53 +0000",
+      "azure": "2025-04-14 01:49:38 +0000"
     },
     "done": true
   },
