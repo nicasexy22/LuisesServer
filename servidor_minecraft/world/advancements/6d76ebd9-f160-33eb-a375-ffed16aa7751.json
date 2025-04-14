@@ -53,6 +53,7 @@
       "minecraft:jungle": "2025-04-01 18:37:51 +0000",
       "minecraft:windswept_savanna": "2025-03-30 18:03:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-04 16:13:02 +0000",
+      "minecraft:flower_forest": "2025-04-14 01:20:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:01:59 +0000",
       "minecraft:savanna": "2025-04-01 18:21:37 +0000",
       "minecraft:plains": "2025-03-30 18:05:38 +0000"
@@ -6899,6 +6900,12 @@
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "builtin": "2025-04-14 01:11:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-14 01:16:05 +0000"
     },
     "done": true
   },
