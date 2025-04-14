@@ -544,3 +544,6 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:26:20.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugoelverdugo[/127.242.121.78:41283] logged in with entity id 116997 at (2393.608906497843, 63.0, 284.2575005446357)
 [14Apr2025 14:26:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo joined the game
 [14Apr2025 14:26:20.688] [Server thread/INFO] [Jade/]: Syncing config to hugoelverdugo (e546a101-0e22-34f4-9524-9b05a6d1286b)
+[14Apr2025 14:32:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Surge Protector]
+[14Apr2025 14:35:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [We Need to Go Deeper]
+[14Apr2025 14:36:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Straddle My Ol' Saddle]

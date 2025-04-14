@@ -8288,3 +8288,21 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:26:20.668] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@482ccf9a into net.minecraft.network.Connection@3c3df8b6
 [14Apr2025 14:26:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo joined the game
 [14Apr2025 14:26:20.688] [Server thread/INFO] [Jade/]: Syncing config to hugoelverdugo (e546a101-0e22-34f4-9524-9b05a6d1286b)
+[14Apr2025 14:29:18.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 14:29:18.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 14:32:28.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [bf079c9a-8426-471c-8a8b-e5e2aaf0c981]
+[14Apr2025 14:32:34.804] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.804] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.804] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:34.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bf079c9a-8426-471c-8a8b-e5e2aaf0c981
+[14Apr2025 14:32:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Surge Protector]
+[14Apr2025 14:34:18.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 14:34:18.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 14:35:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [We Need to Go Deeper]
+[14Apr2025 14:36:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Straddle My Ol' Saddle]
