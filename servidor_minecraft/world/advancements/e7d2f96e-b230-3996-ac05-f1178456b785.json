@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-14 01:25:04 +0000",
       "minecraft:taiga": "2025-04-08 16:58:05 +0000",
+      "minecraft:deep_ocean": "2025-04-14 02:50:38 +0000",
       "minecraft:frozen_river": "2025-04-14 01:34:16 +0000",
       "minecraft:birch_forest": "2025-04-08 15:24:40 +0000",
       "minecraft:wooded_badlands": "2025-03-30 02:23:22 +0000",
@@ -2671,6 +2672,7 @@
       "minecraft:pillager": "2025-04-08 15:33:39 +0000",
       "minecraft:skeleton": "2025-04-04 17:49:24 +0000",
       "minecraft:hoglin": "2025-04-10 14:42:01 +0000",
+      "minecraft:vindicator": "2025-04-14 02:47:05 +0000",
       "minecraft:magma_cube": "2025-04-05 18:38:52 +0000",
       "minecraft:spider": "2025-04-01 19:46:54 +0000",
       "minecraft:piglin_brute": "2025-04-10 14:39:00 +0000",
@@ -10090,9 +10092,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "create_enchantment_industry:spirit_taking": {
     "criteria": {
-      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+      "builtin": "2025-04-14 01:10:06 +0000"
     },
     "done": true
   },
@@ -10102,9 +10104,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+  "create_enchantment_industry:experimental": {
     "criteria": {
-      "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
+      "builtin": "2025-04-14 01:10:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-14 01:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 01:18:13 +0000"
     },
     "done": true
   },
@@ -10120,27 +10134,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_notor": {
-    "criteria": {
-      "killed": "2025-04-14 01:47:22 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_stool": {
     "criteria": {
       "has_brown_wool": "2025-04-14 01:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
     },
     "done": true
   },
@@ -10162,33 +10158,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-14 01:59:23 +0000"
-    },
-    "done": true
-  },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2025-04-14 02:16:44 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-04-14 01:22:51 +0000"
-    },
-    "done": false
-  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-14 01:18:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
-    "criteria": {
-      "has_icy_iris": "2025-04-14 01:41:24 +0000"
     },
     "done": true
   },
@@ -10207,18 +10179,6 @@
   "valhelsia_furniture:recipes/decorations/brown_curtain": {
     "criteria": {
       "has_item": "2025-04-14 01:18:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2025-04-14 02:38:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_magnetron": {
-    "criteria": {
-      "killed": "2025-04-14 02:18:29 +0000"
     },
     "done": true
   },
@@ -10270,21 +10230,69 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experimental": {
-    "criteria": {
-      "builtin": "2025-04-14 01:10:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-04-14 01:26:25 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_mangrove_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_warped_chair": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_stool": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_stool": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_chair": {
+    "criteria": {
+      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-04-14 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-04-14 01:22:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
     },
     "done": true
   },
@@ -10300,63 +10308,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/brown_warped_chair": {
-    "criteria": {
-      "has_brown_wool": "2025-04-14 01:18:13 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2025-04-14 01:22:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2025-04-14 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_boundroid": {
-    "criteria": {
-      "killed": "2025-04-14 01:53:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-14 01:26:03 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:spirit_taking": {
-    "criteria": {
-      "builtin": "2025-04-14 01:10:06 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/telecore": {
-    "criteria": {
-      "limestone": "2025-04-14 02:03:07 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_stool": {
-    "criteria": {
-      "has_brown_wool": "2025-04-14 01:18:13 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-04-14 01:17:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_stool": {
-    "criteria": {
-      "has_brown_wool": "2025-04-14 01:18:13 +0000"
     },
     "done": true
   },
@@ -10366,9 +10320,27 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/brown_sleeping_bag": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+      "has_ice": "2025-04-14 01:26:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
+    "criteria": {
+      "has_icy_iris": "2025-04-14 01:41:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-04-14 01:47:22 +0000"
     },
     "done": true
   },
@@ -10379,9 +10351,45 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_chair": {
+  "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
-      "has_brown_wool": "2025-04-14 01:18:13 +0000"
+      "killed": "2025-04-14 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 01:59:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-04-14 02:03:07 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-04-14 02:16:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-04-14 02:18:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-04-14 02:38:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-04-14 03:21:10 +0000"
     },
     "done": true
   },
