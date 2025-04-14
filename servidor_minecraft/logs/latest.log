@@ -504,3 +504,7 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 13:07:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 left the game
 [14Apr2025 13:07:48.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
 [14Apr2025 13:07:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[14Apr2025 13:26:20.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:44169] logged in with entity id 98242 at (957.5, 69.076, 546.5)
+[14Apr2025 13:26:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[14Apr2025 13:26:21.024] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[14Apr2025 13:26:21.024] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
