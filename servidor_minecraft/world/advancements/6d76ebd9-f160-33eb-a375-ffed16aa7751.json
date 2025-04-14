@@ -6953,9 +6953,10 @@
   },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
-      "scarlet": "2025-04-14 01:47:53 +0000"
+      "scarlet": "2025-04-14 01:47:53 +0000",
+      "azure": "2025-04-14 02:07:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {

@@ -8014,3 +8014,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Apr2025 02:07:17.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Push and Pull]
 [14Apr2025 02:07:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Not Today, Thank You]
 [14Apr2025 02:08:06.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/91277, l='ServerLevel[world]', x=687.51, y=77.50, z=481.50]
+[14Apr2025 02:08:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Hello ?]
+[14Apr2025 02:08:46.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 02:08:46.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 02:09:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:09:50.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:10:21.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fb301431-c0bd-47cd-9ee2-7abebd540eb6
+[14Apr2025 02:12:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [I think we have a problem ?!]
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:12:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: a085df25-2bb2-4f08-ab21-96da8b11ebf5
+[14Apr2025 02:13:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Sharp axe !]
+[14Apr2025 02:13:46.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 02:13:46.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 02:15:33.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Perfect Size ?]
+[14Apr2025 02:16:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Hunted]
+[14Apr2025 02:17:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Isn't It Iron Pick]
+[14Apr2025 02:18:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Magnetron No More]
