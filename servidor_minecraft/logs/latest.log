@@ -91,3 +91,14 @@
 [14Apr2025 00:39:10.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has reached the goal [Flowers of the Savanna]
 [14Apr2025 00:46:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Into Fire]
 [14Apr2025 00:49:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Surge Protector]
+[14Apr2025 00:49:26.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/89061, l='ServerLevel[world]', x=2386.70, y=63.00, z=287.70] died, message: 'Librarian was burnt to a crisp whilst fighting bb18_'
+[14Apr2025 00:49:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Dark Creator]
+[14Apr2025 00:54:18.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugoelverdugo was kicked for floating too long!
+[14Apr2025 00:54:18.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugoelverdugo lost connection: Flying is not enabled on this server
+[14Apr2025 00:54:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo left the game
+[14Apr2025 00:55:03.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugoelverdugo[/127.242.121.78:39401] logged in with entity id 96332 at (1832.700208058771, 64.16610926093821, 598.6754685173353)
+[14Apr2025 00:55:03.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo joined the game
+[14Apr2025 00:55:03.724] [Server thread/INFO] [Jade/]: Syncing config to hugoelverdugo (e546a101-0e22-34f4-9524-9b05a6d1286b)
+[14Apr2025 00:58:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Crops of the Wild]
+[14Apr2025 00:58:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [The Copper Age]
+[14Apr2025 00:58:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Hot Stuff]

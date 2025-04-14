@@ -9639,6 +9639,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-04-14 00:52:02 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-04-13 23:55:03 +0000"
@@ -9696,6 +9702,12 @@
   "travelersbackpack:recipes/misc/blaze_smithing": {
     "criteria": {
       "has_blaze": "2025-04-14 00:03:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-14 00:51:02 +0000"
     },
     "done": true
   },
