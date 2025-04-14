@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-14 01:25:17 +0000",
       "minecraft:taiga": "2025-04-08 16:56:16 +0000",
       "minecraft:birch_forest": "2025-04-08 15:27:02 +0000",
       "minecraft:windswept_hills": "2025-04-08 17:11:18 +0000",
@@ -49,13 +50,16 @@
       "minecraft:river": "2025-03-30 01:56:08 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 13:39:44 +0000",
       "minecraft:stony_shore": "2025-04-01 19:09:48 +0000",
+      "minecraft:jagged_peaks": "2025-04-14 01:25:20 +0000",
       "minecraft:cold_ocean": "2025-04-08 15:31:41 +0000",
       "minecraft:forest": "2025-04-08 15:26:53 +0000",
       "minecraft:lush_caves": "2025-04-04 18:03:05 +0000",
       "minecraft:jungle": "2025-04-01 14:32:20 +0000",
       "minecraft:ocean": "2025-04-01 14:30:44 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-14 01:28:17 +0000",
       "minecraft:windswept_savanna": "2025-03-30 01:51:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 17:13:25 +0000",
+      "minecraft:frozen_peaks": "2025-04-14 01:31:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-08 15:26:55 +0000",
       "minecraft:meadow": "2025-04-14 01:21:01 +0000",
       "minecraft:savanna": "2025-03-30 02:03:02 +0000",
@@ -9741,6 +9745,42 @@
       "charm_collector_3": "2025-04-14 00:52:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-14 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-14 01:32:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-14 01:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-14 01:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-14 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-14 01:33:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

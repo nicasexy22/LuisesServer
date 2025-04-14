@@ -37,8 +37,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-14 01:25:08 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-10 13:12:55 +0000",
       "minecraft:taiga": "2025-04-08 15:33:19 +0000",
+      "minecraft:frozen_river": "2025-04-14 01:32:09 +0000",
       "minecraft:birch_forest": "2025-04-08 15:33:23 +0000",
       "minecraft:savanna_plateau": "2025-04-01 18:21:32 +0000",
       "minecraft:beach": "2025-04-04 16:12:39 +0000",
@@ -47,13 +49,18 @@
       "minecraft:lukewarm_ocean": "2025-03-30 18:18:27 +0000",
       "minecraft:river": "2025-03-30 18:11:00 +0000",
       "minecraft:stony_shore": "2025-04-06 14:43:07 +0000",
+      "minecraft:snowy_plains": "2025-04-14 01:32:10 +0000",
+      "minecraft:grove": "2025-04-14 01:28:24 +0000",
+      "minecraft:jagged_peaks": "2025-04-14 01:25:06 +0000",
       "minecraft:forest": "2025-04-08 15:33:32 +0000",
       "minecraft:lush_caves": "2025-04-06 18:46:05 +0000",
       "minecraft:ocean": "2025-03-30 18:18:04 +0000",
       "minecraft:jungle": "2025-04-01 18:37:51 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-14 01:28:09 +0000",
       "minecraft:windswept_savanna": "2025-03-30 18:03:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-04 16:13:02 +0000",
       "minecraft:flower_forest": "2025-04-14 01:20:02 +0000",
+      "minecraft:frozen_peaks": "2025-04-14 01:31:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:01:59 +0000",
       "minecraft:savanna": "2025-04-01 18:21:37 +0000",
       "minecraft:plains": "2025-03-30 18:05:38 +0000"
@@ -6891,6 +6898,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-14 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-14 01:32:33 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experimental": {
     "criteria": {
       "builtin": "2025-04-14 01:12:32 +0000"
@@ -6906,6 +6925,12 @@
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-04-14 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-14 01:32:33 +0000"
     },
     "done": true
   },
