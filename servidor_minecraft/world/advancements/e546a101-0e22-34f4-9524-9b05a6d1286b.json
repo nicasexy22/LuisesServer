@@ -79,6 +79,7 @@
       "highland": "2025-04-14 12:23:49 +0000",
       "jacaranda_glade": "2025-04-13 23:27:50 +0000",
       "old_growth_woodland": "2025-04-14 01:12:09 +0000",
+      "withered_abyss": "2025-04-14 14:36:06 +0000",
       "mediterranean_forest": "2025-04-13 23:28:55 +0000",
       "lavender_field": "2025-04-13 23:27:13 +0000",
       "prairie": "2025-04-13 23:19:59 +0000"
@@ -1916,7 +1917,8 @@
       "baked_potato": "2025-04-13 23:55:08 +0000",
       "porkchop": "2025-04-13 23:39:11 +0000",
       "mutton": "2025-04-13 23:36:41 +0000",
-      "bread": "2025-04-13 23:45:39 +0000"
+      "bread": "2025-04-13 23:45:39 +0000",
+      "carrot": "2025-04-14 14:40:38 +0000"
     },
     "done": false
   },
@@ -3243,6 +3245,7 @@
       "minecraft:spider": "2025-04-14 00:06:14 +0000",
       "minecraft:creeper": "2025-04-14 00:18:18 +0000",
       "minecraft:witch": "2025-04-14 00:08:55 +0000",
+      "minecraft:wither_skeleton": "2025-04-14 14:36:22 +0000",
       "minecraft:enderman": "2025-04-14 12:34:43 +0000",
       "minecraft:zombie": "2025-04-14 00:03:16 +0000",
       "minecraft:drowned": "2025-04-14 00:47:47 +0000"
@@ -4951,6 +4954,30 @@
   "rpgsmw:miphril": {
     "criteria": {
       "miphril_0": "2025-04-14 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-14 14:35:59 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-14 14:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-14 14:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-14 14:35:59 +0000"
     },
     "done": true
   },

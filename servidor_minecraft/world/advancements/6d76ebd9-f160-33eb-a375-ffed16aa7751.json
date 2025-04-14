@@ -6992,12 +6992,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-04-14 11:58:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-14 11:45:17 +0000"
@@ -7028,12 +7022,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-04-14 11:58:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-14 11:45:17 +0000"
@@ -7058,15 +7046,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mixed_salad": {
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-14 11:45:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-14 11:58:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-04-14 11:58:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
-      "has_sandstone": "2025-04-14 11:45:17 +0000"
+      "has_bowl": "2025-04-14 11:58:22 +0000"
     },
     "done": true
   },

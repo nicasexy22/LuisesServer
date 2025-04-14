@@ -547,3 +547,13 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:32:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Surge Protector]
 [14Apr2025 14:35:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [We Need to Go Deeper]
 [14Apr2025 14:36:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Straddle My Ol' Saddle]
+[14Apr2025 14:37:29.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo withered away
+[14Apr2025 14:37:29.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hugoelverdugo with unique ID travelersbackpack.blaze_14.04.2025-14.37.29.dat
+[14Apr2025 14:37:29.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 227 Y: 95 Z: 77
+[14Apr2025 14:37:47.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:34699] logged in with entity id 127441 at (2302.300000011921, 70.0, 672.2966381228736)
+[14Apr2025 14:37:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[14Apr2025 14:37:47.899] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[14Apr2025 14:42:19.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli moved too quickly! 1.3592692956499377,-10.184074939147294,0.008733595967441943
+[14Apr2025 14:43:01.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bb18_[/127.242.121.78:52231] logged in with entity id 131804 at (2392.921767002761, 63.0, 283.2462511956306)
+[14Apr2025 14:43:01.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
+[14Apr2025 14:43:01.957] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
