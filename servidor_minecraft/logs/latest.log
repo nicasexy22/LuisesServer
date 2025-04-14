@@ -528,3 +528,16 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:05:38.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104543, l='ServerLevel[world]', x=936.31, y=64.00, z=485.45] died, message: 'Unemployed was slain by migu_82'
 [14Apr2025 14:05:42.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104541, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
 [14Apr2025 14:05:43.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104540, l='ServerLevel[world]', x=935.17, y=65.02, z=485.47] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:06:21.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/104537, l='ServerLevel[world]', x=905.83, y=66.02, z=483.06] died, message: 'Fisherman was slain by migu_82'
+[14Apr2025 14:07:32.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:07:32.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=890, y=64, z=488} BlockPos{x=891, y=63, z=488}
+[14Apr2025 14:10:17.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli moved too quickly! -0.04143821450134055,-11.798174230684253,0.03682121648114389
+[14Apr2025 14:10:18.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli fell from a high place
+[14Apr2025 14:14:01.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/104536, l='ServerLevel[world]', x=968.70, y=68.00, z=542.71] died, message: 'Armorer was slain by Zombie'
