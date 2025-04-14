@@ -541,3 +541,6 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:10:17.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli moved too quickly! -0.04143821450134055,-11.798174230684253,0.03682121648114389
 [14Apr2025 14:10:18.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli fell from a high place
 [14Apr2025 14:14:01.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/104536, l='ServerLevel[world]', x=968.70, y=68.00, z=542.71] died, message: 'Armorer was slain by Zombie'
+[14Apr2025 14:26:20.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hugoelverdugo[/127.242.121.78:41283] logged in with entity id 116997 at (2393.608906497843, 63.0, 284.2575005446357)
+[14Apr2025 14:26:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo joined the game
+[14Apr2025 14:26:20.688] [Server thread/INFO] [Jade/]: Syncing config to hugoelverdugo (e546a101-0e22-34f4-9524-9b05a6d1286b)
