@@ -515,3 +515,4 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 13:36:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [14Apr2025 13:36:24.368] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 256.0
 [14Apr2025 13:36:24.368] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[14Apr2025 13:55:28.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Defunct Machinery]
