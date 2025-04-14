@@ -411,3 +411,42 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 11:52:12.082] [Server thread/INFO] [Jade/]: Syncing config to valdellos (a7919ec6-a0b7-3bee-929d-4f949b99986f)
 [14Apr2025 11:52:19.749] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:toxic_caves after 18s
 [14Apr2025 11:52:46.274] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:toxic_caves after 22s
+[14Apr2025 11:52:54.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14Apr2025 11:53:13.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind
+[14Apr2025 11:53:23.978] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:toxic_caves after 36s
+[14Apr2025 11:54:16.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14Apr2025 11:54:20.668] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:toxic_caves after 29s
+[14Apr2025 11:54:56.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: valdellos lost connection: Disconnected
+[14Apr2025 11:54:56.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valdellos left the game
+[14Apr2025 11:56:16.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: migu_82[/127.182.76.168:56527] logged in with entity id 33140 at (959.1633101985399, 70.0, 546.7887878568333)
+[14Apr2025 11:56:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 joined the game
+[14Apr2025 11:56:16.340] [Server thread/INFO] [Jade/]: Syncing config to migu_82 (797394eb-b387-3ced-b881-8f52772558e6)
+[14Apr2025 11:56:48.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Showing new title for 4 players]
+[14Apr2025 11:56:56.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Apr2025 11:57:04.123] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:toxic_caves after 30s
+[14Apr2025 11:57:15.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Isn't It Iron Pick]
+[14Apr2025 11:57:19.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Stone Age]
+[14Apr2025 11:57:25.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Suit Up]
+[14Apr2025 11:57:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Amateur Archaeologist]
+[14Apr2025 11:57:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Acquire Hardware]
+[14Apr2025 12:00:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Alex's Mobs]
+[14Apr2025 12:00:12.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has completed the challenge [Berserk Class]
+[14Apr2025 12:00:25.954] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 6213 -56 1357 in 2s
+[14Apr2025 12:01:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 was blown up by bb18_
+[14Apr2025 12:02:16.993] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[14Apr2025 12:02:16.994] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[14Apr2025 12:02:16.995] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[14Apr2025 12:02:16.995] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[14Apr2025 12:04:48.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> z
+[14Apr2025 12:04:50.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> zz
+[14Apr2025 12:04:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> zzz
+[14Apr2025 12:04:56.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Showing new title for 4 players]
+[14Apr2025 12:06:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Monster Hunter]
+[14Apr2025 12:06:57.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2654, y=68, z=660} BlockPos{x=2653, y=67, z=662}
+[14Apr2025 12:06:57.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2654, y=68, z=660} BlockPos{x=2653, y=67, z=662}
+[14Apr2025 12:09:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has reached the goal [Hunted]
+[14Apr2025 12:09:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Not Today, Thank You]
+[14Apr2025 12:09:34.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [The Wind Darkening]
+[14Apr2025 12:09:56.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Junior Summoner]
+[14Apr2025 12:10:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Sweet Dreams]
+[14Apr2025 12:12:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 was slain by Kangaroo

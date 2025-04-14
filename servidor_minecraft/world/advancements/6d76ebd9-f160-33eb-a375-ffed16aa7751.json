@@ -1244,6 +1244,7 @@
       "bread": "2025-04-01 14:46:46 +0000",
       "golden_apple": "2025-04-06 15:40:48 +0000",
       "melon_slice": "2025-03-30 18:18:55 +0000",
+      "rabbit_stew": "2025-04-14 11:58:22 +0000",
       "cooked_salmon": "2025-04-13 01:50:26 +0000"
     },
     "done": false
@@ -6991,6 +6992,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-14 11:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-14 11:45:17 +0000"
@@ -7021,6 +7028,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-14 11:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-14 11:45:17 +0000"
@@ -7042,6 +7055,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-14 11:45:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-14 11:58:22 +0000"
     },
     "done": true
   },
