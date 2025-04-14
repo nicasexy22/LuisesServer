@@ -10157,6 +10157,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 01:59:23 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2025-04-14 01:22:51 +0000"
@@ -10304,6 +10310,12 @@
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "builtin": "2025-04-14 01:10:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-04-14 02:03:07 +0000"
     },
     "done": true
   },

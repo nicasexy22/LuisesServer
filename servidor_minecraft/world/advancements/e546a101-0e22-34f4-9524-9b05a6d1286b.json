@@ -3563,6 +3563,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-14 02:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3581,9 +3587,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-14 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-14 01:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },
@@ -3608,6 +3638,12 @@
   "valhelsia_furniture:recipes/decorations/purple_curtain": {
     "criteria": {
       "has_item": "2025-04-14 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },
@@ -3653,6 +3689,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_mangrove_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3662,6 +3710,12 @@
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-04-14 01:19:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },
@@ -3701,6 +3755,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-04-14 01:49:25 +0000"
@@ -3719,6 +3785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3728,6 +3800,12 @@
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-04-14 01:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },
@@ -3755,6 +3833,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_jungle_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3767,9 +3851,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-14 01:59:25 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/paper_wall": {
     "criteria": {
       "has_bamboo": "2025-04-14 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },
@@ -3782,6 +3878,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-14 01:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-14 02:01:57 +0000"
     },
     "done": true
   },
@@ -3869,6 +3971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3923,6 +4031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-14 02:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-04-14 01:21:46 +0000"
@@ -3932,6 +4046,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-14 01:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },

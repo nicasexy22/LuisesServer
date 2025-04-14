@@ -1270,3 +1270,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Apr2025 01:53:04.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Worthless]
 [14Apr2025 01:55:13.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Teletor's Telecore]
 [14Apr2025 01:56:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Worthless]
+[14Apr2025 01:59:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Best Friends Forever]
+[14Apr2025 02:02:29.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Diamonds!]
+[14Apr2025 02:03:07.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Teletor's Telecore]
+[14Apr2025 02:03:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was slain by Door Knight
+[14Apr2025 02:03:32.583] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hugoelverdugo with unique ID travelersbackpack.blaze_14.04.2025-02.03.32.dat
+[14Apr2025 02:03:32.586] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 899 Y: -32 Z: 502
+[14Apr2025 02:07:17.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Push and Pull]
+[14Apr2025 02:07:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Not Today, Thank You]
+[14Apr2025 02:08:06.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/91277, l='ServerLevel[world]', x=687.51, y=77.50, z=481.50]
