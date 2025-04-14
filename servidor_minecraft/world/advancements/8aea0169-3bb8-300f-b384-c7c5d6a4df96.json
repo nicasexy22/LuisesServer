@@ -9903,5 +9903,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-04-14 13:55:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

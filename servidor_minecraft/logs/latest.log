@@ -516,3 +516,15 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 13:36:24.368] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 256.0
 [14Apr2025 13:36:24.368] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
 [14Apr2025 13:55:28.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Defunct Machinery]
+[14Apr2025 14:00:34.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: migu_82[/127.182.76.168:44475] logged in with entity id 104490 at (957.5777086007117, 69.0, 547.7029841364816)
+[14Apr2025 14:00:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 joined the game
+[14Apr2025 14:00:34.027] [Server thread/INFO] [Jade/]: Syncing config to migu_82 (797394eb-b387-3ced-b881-8f52772558e6)
+[14Apr2025 14:04:24.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104539, l='ServerLevel[world]', x=928.84, y=64.00, z=479.01] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:04:58.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104538, l='ServerLevel[world]', x=927.71, y=68.00, z=485.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:10.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104545, l='ServerLevel[world]', x=908.52, y=66.00, z=493.89] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:30.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104542, l='ServerLevel[world]', x=931.97, y=66.00, z=485.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:34.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104544, l='ServerLevel[world]', x=933.49, y=65.00, z=485.41] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:36.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104535, l='ServerLevel[world]', x=936.70, y=64.00, z=486.21] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:38.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104543, l='ServerLevel[world]', x=936.31, y=64.00, z=485.45] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:42.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104541, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 14:05:43.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/104540, l='ServerLevel[world]', x=935.17, y=65.02, z=485.47] died, message: 'Unemployed was slain by migu_82'
