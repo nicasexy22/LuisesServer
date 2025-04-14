@@ -7170,3 +7170,26 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 12:09:56.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Junior Summoner]
 [14Apr2025 12:10:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Sweet Dreams]
 [14Apr2025 12:12:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 was slain by Kangaroo
+[14Apr2025 12:14:18.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 12:14:18.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 12:14:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 was slain by hugoelverdugo
+[14Apr2025 12:14:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 was slain by hugoelverdugo
+[14Apr2025 12:16:50.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was slain by migu_82
+[14Apr2025 12:16:50.812] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hugoelverdugo with unique ID travelersbackpack.blaze_14.04.2025-12.16.50.dat
+[14Apr2025 12:16:50.813] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 952 Y: 69 Z: 549
+[14Apr2025 12:16:52.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Cover Me with Diamonds]
+[14Apr2025 12:19:18.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 12:19:18.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 12:22:05.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was slain by migu_82
+[14Apr2025 12:22:05.215] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hugoelverdugo with unique ID travelersbackpack.blaze_14.04.2025-12.22.05.dat
+[14Apr2025 12:22:05.216] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 950 Y: 69 Z: 547
+[14Apr2025 12:22:15.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Diamonds!]
+[14Apr2025 12:23:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Perfect Size ?]
+[14Apr2025 12:24:18.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 12:24:18.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 12:24:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Getting an Upgrade]
+[14Apr2025 12:29:18.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 12:29:18.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 12:29:21.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2587, y=63, z=695} BlockPos{x=2588, y=62, z=694}
+[14Apr2025 12:29:21.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2587, y=63, z=695} BlockPos{x=2588, y=62, z=694}
+[14Apr2025 12:33:02.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityCrow['Django'/296, l='ServerLevel[world]', x=956.22, y=69.00, z=548.35] died: Django was slain by migu_82

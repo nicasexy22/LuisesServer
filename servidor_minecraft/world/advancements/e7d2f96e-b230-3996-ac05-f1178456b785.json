@@ -10393,6 +10393,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-04-14 12:09:56 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
       "requirement": "2025-04-14 11:29:18 +0000"

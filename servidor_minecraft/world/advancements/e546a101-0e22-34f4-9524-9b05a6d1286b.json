@@ -76,6 +76,7 @@
     "criteria": {
       "woodland": "2025-04-13 23:40:21 +0000",
       "scrubland": "2025-04-13 23:39:57 +0000",
+      "highland": "2025-04-14 12:23:49 +0000",
       "jacaranda_glade": "2025-04-13 23:27:50 +0000",
       "old_growth_woodland": "2025-04-14 01:12:09 +0000",
       "mediterranean_forest": "2025-04-13 23:28:55 +0000",
@@ -4663,9 +4664,21 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-04-14 12:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 11:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-14 12:09:30 +0000"
     },
     "done": true
   },
