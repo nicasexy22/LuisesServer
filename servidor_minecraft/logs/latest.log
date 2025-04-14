@@ -465,3 +465,38 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 12:29:21.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2587, y=63, z=695} BlockPos{x=2588, y=62, z=694}
 [14Apr2025 12:29:21.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2587, y=63, z=695} BlockPos{x=2588, y=62, z=694}
 [14Apr2025 12:33:02.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityCrow['Django'/296, l='ServerLevel[world]', x=956.22, y=69.00, z=548.35] died: Django was slain by migu_82
+[14Apr2025 12:34:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has made the advancement [Take Aim]
+[14Apr2025 12:38:22.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[14Apr2025 12:38:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[14Apr2025 12:42:24.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:57727] logged in with entity id 81626 at (1833.9828271260108, 68.0, 578.5610938298371)
+[14Apr2025 12:42:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[14Apr2025 12:42:25.035] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[14Apr2025 12:43:04.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Ant Farm]
+[14Apr2025 12:44:07.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27274, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:09.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27265, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:12.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27266, l='ServerLevel[world]', x=936.70, y=64.00, z=487.30] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:14.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27268, l='ServerLevel[world]', x=936.70, y=64.00, z=487.30] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:15.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27269, l='ServerLevel[world]', x=936.70, y=64.00, z=487.30] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:17.333] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27267, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:18.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27272, l='ServerLevel[world]', x=936.70, y=64.00, z=487.30] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:20.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27275, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:21.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27279, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:22.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27270, l='ServerLevel[world]', x=936.70, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:23.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27271, l='ServerLevel[world]', x=936.70, y=64.00, z=487.30] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:24.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27273, l='ServerLevel[world]', x=936.70, y=64.00, z=487.30] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:24.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27276, l='ServerLevel[world]', x=936.30, y=64.00, z=487.70] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:44:34.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27278, l='ServerLevel[world]', x=929.65, y=63.00, z=464.63] died, message: 'Fisherman was slain by migu_82'
+[14Apr2025 12:44:34.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27280, l='ServerLevel[world]', x=936.37, y=64.05, z=496.09] died, message: 'Unemployed drowned'
+[14Apr2025 12:46:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 has reached the goal [Hunted]
+[14Apr2025 12:48:26.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of hugoelverdugo) moved wrongly! 0.44465917794286725
+[14Apr2025 12:48:27.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of hugoelverdugo) moved wrongly! 0.737921548056022
+[14Apr2025 12:48:27.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of hugoelverdugo) moved wrongly! 0.7425240378151443
+[14Apr2025 12:48:27.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of hugoelverdugo) moved wrongly! 0.4490662099364613
+[14Apr2025 12:53:47.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27282, l='ServerLevel[world]', x=936.31, y=64.05, z=496.27] died, message: 'Unemployed drowned'
+[14Apr2025 12:55:30.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/72420, l='ServerLevel[world]', x=926.49, y=64.00, z=478.40] died, message: 'Unemployed was slain by migu_82'
+[14Apr2025 12:56:13.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli moved wrongly!
+[14Apr2025 12:57:48.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[14Apr2025 12:57:48.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
+[14Apr2025 12:58:05.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has reached the goal [Miphril]
+[14Apr2025 12:58:15.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugoelverdugo lost connection: Disconnected
+[14Apr2025 12:58:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo left the game

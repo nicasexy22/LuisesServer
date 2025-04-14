@@ -9885,12 +9885,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
-    "criteria": {
-      "resistor_shield": "2025-04-14 03:17:13 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
       "azure": "2025-04-14 03:14:31 +0000"
@@ -9900,6 +9894,12 @@
   "alexscaves:alexscaves/quarry": {
     "criteria": {
       "quarry": "2025-04-14 03:16:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-04-14 03:17:13 +0000"
     },
     "done": true
   },
