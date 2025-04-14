@@ -500,3 +500,7 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 12:58:05.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has reached the goal [Miphril]
 [14Apr2025 12:58:15.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hugoelverdugo lost connection: Disconnected
 [14Apr2025 12:58:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo left the game
+[14Apr2025 13:07:31.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: migu_82 lost connection: Disconnected
+[14Apr2025 13:07:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 left the game
+[14Apr2025 13:07:48.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[14Apr2025 13:07:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game

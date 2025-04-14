@@ -7415,3 +7415,11 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 13:04:18.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Apr2025 13:04:18.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Apr2025 13:04:24.298] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [797394eb-b387-3ced-b881-8f52772558e6]
+[14Apr2025 13:07:31.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: migu_82 lost connection: Disconnected
+[14Apr2025 13:07:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: migu_82 left the game
+[14Apr2025 13:07:48.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[14Apr2025 13:07:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[14Apr2025 13:09:18.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 13:09:18.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 13:14:18.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 13:14:18.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

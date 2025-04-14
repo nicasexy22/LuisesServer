@@ -1421,6 +1421,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-04-14 13:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-14 11:57:18 +0000"
@@ -2115,6 +2121,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 11:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-14 13:06:02 +0000"
     },
     "done": true
   },
