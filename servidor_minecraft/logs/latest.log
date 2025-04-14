@@ -76,3 +76,18 @@
 [14Apr2025 00:09:00.678] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
 [14Apr2025 00:09:00.678] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
 [14Apr2025 00:09:00.680] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 00:27:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Enchanter]
+[14Apr2025 00:27:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Hot Stuff]
+[14Apr2025 00:33:24.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:33:24.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:33:24.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:33:24.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:33:24.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:33:24.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:33:24.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2576, y=67, z=648} BlockPos{x=2575, y=67, z=648}
+[14Apr2025 00:34:26.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [We do a little trolling...]
+[14Apr2025 00:34:29.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Best Friends Forever]
+[14Apr2025 00:36:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Sweet Dreams]
+[14Apr2025 00:39:10.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has reached the goal [Flowers of the Savanna]
+[14Apr2025 00:46:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Into Fire]
+[14Apr2025 00:49:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Surge Protector]

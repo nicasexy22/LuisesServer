@@ -6752,5 +6752,113 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-14 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/lime_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-14 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-14 00:27:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/magenta_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-14 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/purple_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-04-14 00:38:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-04-14 00:34:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
