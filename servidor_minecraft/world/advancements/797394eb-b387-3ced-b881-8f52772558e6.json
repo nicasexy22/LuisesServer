@@ -39,7 +39,8 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-04-14 13:00:42 +0000",
       "minecraft:river": "2025-04-14 11:42:37 +0000",
-      "minecraft:windswept_savanna": "2025-04-14 11:41:19 +0000"
+      "minecraft:windswept_savanna": "2025-04-14 11:41:19 +0000",
+      "minecraft:savanna": "2025-04-14 14:59:16 +0000"
     },
     "done": false
   },
@@ -3558,6 +3559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-14 15:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 14:37:37 +0000"
@@ -3597,6 +3604,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-04-14 14:31:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-14 15:02:20 +0000"
     },
     "done": true
   },
@@ -3663,6 +3676,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 14:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-14 15:02:20 +0000"
     },
     "done": true
   },
@@ -3873,6 +3892,12 @@
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-04-14 14:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-14 15:02:20 +0000"
     },
     "done": true
   },

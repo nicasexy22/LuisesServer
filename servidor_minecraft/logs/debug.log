@@ -8668,3 +8668,13 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:44:18.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Apr2025 14:46:12.116] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e7d2f96e-b230-3996-ac05-f1178456b785]
 [14Apr2025 14:46:49.509] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e546a101-0e22-34f4-9524-9b05a6d1286b]
+[14Apr2025 14:49:18.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 14:49:18.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 14:50:50.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Magery]
+[14Apr2025 14:54:18.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 14:54:18.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 14:59:18.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 14:59:18.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 15:04:18.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 15:04:18.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 15:05:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [The Parrots and the Bats]

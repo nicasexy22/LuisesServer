@@ -557,3 +557,5 @@ java.net.http.HttpTimeoutException: request timed out
 [14Apr2025 14:43:01.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bb18_[/127.242.121.78:52231] logged in with entity id 131804 at (2392.921767002761, 63.0, 283.2462511956306)
 [14Apr2025 14:43:01.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
 [14Apr2025 14:43:01.957] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
+[14Apr2025 14:50:50.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Magery]
+[14Apr2025 15:05:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [The Parrots and the Bats]

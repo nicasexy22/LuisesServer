@@ -1916,6 +1916,7 @@
       "cooked_beef": "2025-04-14 12:30:15 +0000",
       "baked_potato": "2025-04-13 23:55:08 +0000",
       "porkchop": "2025-04-13 23:39:11 +0000",
+      "beetroot_soup": "2025-04-14 14:58:13 +0000",
       "mutton": "2025-04-13 23:36:41 +0000",
       "bread": "2025-04-13 23:45:39 +0000",
       "carrot": "2025-04-14 14:40:38 +0000"
@@ -4963,9 +4964,27 @@
     },
     "done": false
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-14 14:58:13 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-04-14 14:50:48 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-04-14 14:36:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-14 14:58:13 +0000"
     },
     "done": true
   },
@@ -4978,6 +4997,18 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-14 14:35:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-14 14:58:13 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-14 14:50:50 +0000"
     },
     "done": true
   },
