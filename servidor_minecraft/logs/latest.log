@@ -1286,3 +1286,437 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Apr2025 02:16:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Hunted]
 [14Apr2025 02:17:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Isn't It Iron Pick]
 [14Apr2025 02:18:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Magnetron No More]
+[14Apr2025 02:20:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Magnetron No More]
+[14Apr2025 02:21:36.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7054} BlockPos{x=-3506, y=-10, z=7055}
+[14Apr2025 02:21:37.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7054} BlockPos{x=-3506, y=-10, z=7055}
+[14Apr2025 02:21:37.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7054} BlockPos{x=-3506, y=-10, z=7055}
+[14Apr2025 02:21:38.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-10, z=7053} BlockPos{x=-3505, y=-10, z=7055}
+[14Apr2025 02:21:38.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-9, z=7053} BlockPos{x=-3505, y=-10, z=7055}
+[14Apr2025 02:21:39.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3508, y=-10, z=7054} BlockPos{x=-3509, y=-11, z=7054}
+[14Apr2025 02:21:40.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7053} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-10, z=7052} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7052} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-10, z=7052} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-10, z=7052} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:40.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3510, y=-11, z=7054}
+[14Apr2025 02:21:41.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3511, y=-11, z=7052}
+[14Apr2025 02:21:41.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3511, y=-11, z=7052}
+[14Apr2025 02:21:41.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3511, y=-11, z=7052}
+[14Apr2025 02:21:41.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7051} BlockPos{x=-3511, y=-11, z=7052}
+[14Apr2025 02:21:41.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-10, z=7051} BlockPos{x=-3509, y=-10, z=7049}
+[14Apr2025 02:21:42.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-10, z=7051} BlockPos{x=-3509, y=-10, z=7049}
+[14Apr2025 02:21:42.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3508, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:42.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-10, z=7051} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:44.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7050} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-8, z=7049} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-10, z=7051} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-10, z=7052} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-10, z=7051} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-10, z=7051} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-9, z=7052} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:44.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-9, z=7052} BlockPos{x=-3506, y=-7, z=7050}
+[14Apr2025 02:21:50.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7049} BlockPos{x=-3506, y=-10, z=7048}
+[14Apr2025 02:21:51.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-10, z=7049} BlockPos{x=-3508, y=-9, z=7048}
+[14Apr2025 02:21:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7049} BlockPos{x=-3508, y=-9, z=7048}
+[14Apr2025 02:21:51.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7049} BlockPos{x=-3508, y=-10, z=7048}
+[14Apr2025 02:21:51.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-10, z=7049} BlockPos{x=-3508, y=-10, z=7048}
+[14Apr2025 02:21:52.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:52.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:52.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3510, y=-10, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:52.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3511, y=-9, z=7050} BlockPos{x=-3509, y=-9, z=7049}
+[14Apr2025 02:21:52.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3511, y=-10, z=7051} BlockPos{x=-3509, y=-10, z=7049}
+[14Apr2025 02:21:52.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3511, y=-10, z=7051} BlockPos{x=-3509, y=-10, z=7049}
+[14Apr2025 02:21:54.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3511, y=-10, z=7050} BlockPos{x=-3512, y=-10, z=7050}
+[14Apr2025 02:21:54.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3511, y=-10, z=7050} BlockPos{x=-3512, y=-10, z=7050}
+[14Apr2025 02:21:55.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Worthless]
+[14Apr2025 02:21:55.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-11, z=7051} BlockPos{x=-3509, y=-12, z=7050}
+[14Apr2025 02:21:55.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-11, z=7051} BlockPos{x=-3509, y=-12, z=7050}
+[14Apr2025 02:21:57.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-11, z=7049} BlockPos{x=-3508, y=-11, z=7048}
+[14Apr2025 02:21:57.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-11, z=7050} BlockPos{x=-3507, y=-12, z=7049}
+[14Apr2025 02:21:57.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-11, z=7050} BlockPos{x=-3507, y=-12, z=7049}
+[14Apr2025 02:21:57.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-11, z=7051} BlockPos{x=-3507, y=-12, z=7049}
+[14Apr2025 02:21:57.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-11, z=7050} BlockPos{x=-3507, y=-12, z=7049}
+[14Apr2025 02:21:57.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-11, z=7049} BlockPos{x=-3506, y=-11, z=7048}
+[14Apr2025 02:21:57.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7049} BlockPos{x=-3506, y=-11, z=7048}
+[14Apr2025 02:21:58.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-12, z=7050} BlockPos{x=-3507, y=-11, z=7049}
+[14Apr2025 02:22:02.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3508, y=-12, z=7050} BlockPos{x=-3507, y=-13, z=7050}
+[14Apr2025 02:22:02.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-12, z=7051} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:02.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-12, z=7051} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:02.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-12, z=7052} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:02.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3506, y=-12, z=7052} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:02.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-12, z=7052} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:02.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7051} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:02.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7051} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:03.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7051} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:03.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7051} BlockPos{x=-3508, y=-13, z=7051}
+[14Apr2025 02:22:04.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-12, z=7049} BlockPos{x=-3503, y=-13, z=7049}
+[14Apr2025 02:22:04.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7049} BlockPos{x=-3503, y=-13, z=7049}
+[14Apr2025 02:22:07.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-13, z=7050} BlockPos{x=-3502, y=-13, z=7049}
+[14Apr2025 02:22:07.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-13, z=7050} BlockPos{x=-3502, y=-13, z=7049}
+[14Apr2025 02:22:07.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-13, z=7051} BlockPos{x=-3502, y=-13, z=7049}
+[14Apr2025 02:22:14.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3507, y=-12, z=7053} BlockPos{x=-3508, y=-13, z=7052}
+[14Apr2025 02:22:15.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-11, z=7053} BlockPos{x=-3508, y=-11, z=7054}
+[14Apr2025 02:22:15.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-11, z=7053} BlockPos{x=-3509, y=-11, z=7054}
+[14Apr2025 02:22:16.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7054} BlockPos{x=-3506, y=-12, z=7054}
+[14Apr2025 02:22:16.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7053} BlockPos{x=-3506, y=-12, z=7054}
+[14Apr2025 02:22:16.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7054} BlockPos{x=-3506, y=-12, z=7054}
+[14Apr2025 02:22:16.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7054} BlockPos{x=-3506, y=-12, z=7054}
+[14Apr2025 02:22:16.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3505, y=-11, z=7054} BlockPos{x=-3506, y=-12, z=7054}
+[14Apr2025 02:22:16.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-12, z=7053} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:16.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7053} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:16.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7053} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:16.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-12, z=7053} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:16.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7053} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:16.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7052} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7052} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7052} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7052} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7052} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-12, z=7051} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-12, z=7051} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:17.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:18.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:18.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:18.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:18.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:20.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7050} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:20.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:20.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:20.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:20.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:20.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:21.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-10, z=7050} BlockPos{x=-3501, y=-13, z=7050}
+[14Apr2025 02:22:21.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7049} BlockPos{x=-3499, y=-11, z=7049}
+[14Apr2025 02:22:21.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:21.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:21.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:21.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7051} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7049} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:22.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7049} BlockPos{x=-3500, y=-12, z=7049}
+[14Apr2025 02:22:25.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-11, z=7050} BlockPos{x=-3496, y=-10, z=7050}
+[14Apr2025 02:22:25.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-11, z=7050} BlockPos{x=-3496, y=-10, z=7050}
+[14Apr2025 02:22:25.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-11, z=7050} BlockPos{x=-3496, y=-10, z=7050}
+[14Apr2025 02:22:25.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-12, z=7050} BlockPos{x=-3496, y=-10, z=7050}
+[14Apr2025 02:22:25.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7051} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:25.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7052} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:25.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7052} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:25.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7051} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:25.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7052} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:26.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3497, y=-11, z=7050} BlockPos{x=-3496, y=-10, z=7050}
+[14Apr2025 02:22:27.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7051} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:27.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7051} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:27.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7051} BlockPos{x=-3498, y=-12, z=7050}
+[14Apr2025 02:22:28.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3497, y=-11, z=7051} BlockPos{x=-3496, y=-11, z=7050}
+[14Apr2025 02:22:28.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3497, y=-11, z=7051} BlockPos{x=-3496, y=-11, z=7050}
+[14Apr2025 02:22:29.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3496, y=-11, z=7051} BlockPos{x=-3496, y=-11, z=7050}
+[14Apr2025 02:22:30.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3497, y=-11, z=7052} BlockPos{x=-3495, y=-11, z=7052}
+[14Apr2025 02:22:31.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-12, z=7053}
+[14Apr2025 02:22:31.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-12, z=7053}
+[14Apr2025 02:22:31.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-12, z=7053}
+[14Apr2025 02:22:35.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-11, z=7054}
+[14Apr2025 02:22:35.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-11, z=7054}
+[14Apr2025 02:22:35.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-11, z=7054}
+[14Apr2025 02:22:35.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3498, y=-12, z=7053} BlockPos{x=-3497, y=-11, z=7054}
+[14Apr2025 02:22:36.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7053} BlockPos{x=-3499, y=-13, z=7052}
+[14Apr2025 02:22:38.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7053} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7053} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7052} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7052} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7052} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7052} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7052} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-11, z=7052} BlockPos{x=-3499, y=-12, z=7054}
+[14Apr2025 02:22:38.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3499, y=-11, z=7054} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-13, z=7052} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-13, z=7052} BlockPos{x=-3500, y=-11, z=7055}
+[14Apr2025 02:22:39.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-13, z=7052} BlockPos{x=-3501, y=-14, z=7051}
+[14Apr2025 02:22:39.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3500, y=-13, z=7053}
+[14Apr2025 02:22:40.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-14, z=7053}
+[14Apr2025 02:22:40.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-14, z=7053}
+[14Apr2025 02:22:40.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7054} BlockPos{x=-3499, y=-11, z=7055}
+[14Apr2025 02:22:40.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3500, y=-12, z=7054} BlockPos{x=-3499, y=-11, z=7055}
+[14Apr2025 02:22:41.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-12, z=7053} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:41.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-12, z=7053} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:41.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:41.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:41.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:41.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:41.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-12, z=7052} BlockPos{x=-3501, y=-13, z=7054}
+[14Apr2025 02:22:42.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3502, y=-14, z=7053}
+[14Apr2025 02:22:42.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3502, y=-14, z=7053}
+[14Apr2025 02:22:42.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3502, y=-14, z=7053}
+[14Apr2025 02:22:42.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3501, y=-13, z=7052} BlockPos{x=-3502, y=-14, z=7053}
+[14Apr2025 02:22:42.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3502, y=-12, z=7054} BlockPos{x=-3502, y=-13, z=7054}
+[14Apr2025 02:22:48.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7054} BlockPos{x=-3502, y=-13, z=7054}
+[14Apr2025 02:22:49.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3503, y=-12, z=7054} BlockPos{x=-3503, y=-13, z=7054}
+[14Apr2025 02:22:50.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-12, z=7054} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:50.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-11, z=7054} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:50.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3504, y=-11, z=7054} BlockPos{x=-3505, y=-12, z=7054}
+[14Apr2025 02:22:59.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-11, z=7053} BlockPos{x=-3509, y=-11, z=7054}
+[14Apr2025 02:22:59.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3509, y=-11, z=7053} BlockPos{x=-3509, y=-11, z=7054}
+[14Apr2025 02:29:18.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Junior Summoner]
+[14Apr2025 02:29:35.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo has made the advancement [Dark Metallurgy]
+[14Apr2025 02:30:49.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hugoelverdugo was slain by Cave Centipede
+[14Apr2025 02:30:49.976] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hugoelverdugo with unique ID travelersbackpack.blaze_14.04.2025-02.30.49.dat
+[14Apr2025 02:30:49.977] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 970 Y: -29 Z: 469
+[14Apr2025 02:33:09.248] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[14Apr2025 02:33:10.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=31, z=-816}
+[14Apr2025 02:33:10.823] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-814}
+[14Apr2025 02:33:10.823] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=30, z=-814}
+[14Apr2025 02:33:10.823] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-813}
+[14Apr2025 02:33:59.431] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[14Apr2025 02:33:59.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Apr2025 02:34:04.188] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:34:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:34:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:34:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:34:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:34:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:34:16.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-101, y=-58, z=9}
+[14Apr2025 02:34:16.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-58, z=9}
+[14Apr2025 02:34:16.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=4}
+[14Apr2025 02:34:16.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=4}
+[14Apr2025 02:34:16.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=0}
+[14Apr2025 02:34:16.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=0}
+[14Apr2025 02:34:18.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[14Apr2025 02:34:20.001] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:34:20.001] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:34:20.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:34:20.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:34:20.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:34:20.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:34:59.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:34:59.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:34:59.875] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:34:59.875] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:34:59.875] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:34:59.875] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:35:00.271] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[14Apr2025 02:35:00.272] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[14Apr2025 02:35:00.272] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[14Apr2025 02:35:00.272] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[14Apr2025 02:35:00.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:35:00.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:35:00.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:35:00.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:35:00.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:35:00.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:35:24.989] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[14Apr2025 02:35:26.084] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:35:26.084] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:35:26.085] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:35:26.085] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:35:26.085] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:35:26.085] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:35:30.805] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:35:30.805] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:35:30.805] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:35:30.805] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:35:30.806] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:35:30.806] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:35:38.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:35:38.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:35:38.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:35:38.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:35:38.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:35:38.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:36:05.663] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[14Apr2025 02:36:05.663] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[14Apr2025 02:36:05.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[14Apr2025 02:36:05.665] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[14Apr2025 02:36:14.712] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:36:14.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:36:14.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:36:14.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:36:14.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:36:14.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:36:24.973] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:36:24.975] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:36:24.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:36:24.981] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:36:24.981] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:36:24.981] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:36:51.853] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:36:51.853] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:36:51.853] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:36:51.853] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:36:51.853] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:36:51.854] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:36:55.576] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:36:55.577] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:36:55.577] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:36:55.577] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:36:55.577] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:36:55.577] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:36:57.378] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[14Apr2025 02:36:58.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:36:58.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:36:58.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:36:58.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:36:58.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:36:58.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:37:08.284] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[14Apr2025 02:37:08.539] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:37:08.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:37:08.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:37:08.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:37:08.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:37:08.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:37:28.010] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[14Apr2025 02:37:45.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:37:45.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:37:45.075] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:37:45.075] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:37:45.075] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:37:45.075] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:37:54.678] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[14Apr2025 02:37:54.678] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[14Apr2025 02:37:54.679] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[14Apr2025 02:37:54.679] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[14Apr2025 02:37:56.654] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-783}
+[14Apr2025 02:37:56.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-814}
+[14Apr2025 02:37:56.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=30, z=-814}
+[14Apr2025 02:37:56.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-813}
+[14Apr2025 02:37:56.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=27, z=-814}
+[14Apr2025 02:37:56.863] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=27, z=-814}
+[14Apr2025 02:37:56.894] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-311, y=27, z=-810}
+[14Apr2025 02:37:56.894] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=27, z=-810}
+[14Apr2025 02:37:57.076] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-313, y=27, z=-819}
+[14Apr2025 02:37:57.076] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-819}
+[14Apr2025 02:37:57.076] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-813}
+[14Apr2025 02:37:57.086] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=30, z=-787}
+[14Apr2025 02:38:07.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:38:07.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:38:07.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:38:07.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:38:07.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:38:07.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:38:08.630] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[14Apr2025 02:38:08.631] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[14Apr2025 02:38:08.631] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[14Apr2025 02:38:08.631] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[14Apr2025 02:38:14.306] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:38:14.306] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:38:14.307] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:38:14.307] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:38:14.307] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:38:14.307] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:38:15.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Ice Scream]
+[14Apr2025 02:38:17.628] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[14Apr2025 02:38:17.628] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[14Apr2025 02:38:17.628] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[14Apr2025 02:38:17.628] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[14Apr2025 02:38:17.629] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[14Apr2025 02:38:17.629] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[14Apr2025 02:38:17.831] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:38:17.831] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:38:17.832] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:38:17.832] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:38:17.832] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:38:17.833] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:39:25.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:39:25.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:39:25.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:39:25.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:39:25.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:39:25.664] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:39:30.924] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:39:30.924] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:39:30.924] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:39:30.924] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:39:30.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:39:30.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:40:09.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:40:09.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:40:09.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:40:09.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:40:09.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:40:09.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:40:10.521] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[14Apr2025 02:40:48.677] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[14Apr2025 02:40:48.677] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[14Apr2025 02:40:48.678] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[14Apr2025 02:40:48.678] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[14Apr2025 02:41:22.682] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:41:22.683] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:41:22.683] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:41:22.683] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:41:22.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:41:22.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:41:37.821] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[14Apr2025 02:41:37.821] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[14Apr2025 02:41:37.822] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[14Apr2025 02:41:37.822] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[14Apr2025 02:41:37.822] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[14Apr2025 02:41:37.822] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[14Apr2025 02:41:38.212] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[14Apr2025 02:41:38.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[14Apr2025 02:41:38.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[14Apr2025 02:41:38.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[14Apr2025 02:41:38.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[14Apr2025 02:41:38.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[14Apr2025 02:41:46.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:41:46.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:41:46.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:41:46.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:41:46.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:41:46.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:41:50.165] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[14Apr2025 02:41:50.166] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[14Apr2025 02:41:50.166] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[14Apr2025 02:41:50.166] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[14Apr2025 02:41:50.166] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[14Apr2025 02:41:50.166] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[14Apr2025 02:41:56.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14Apr2025 02:41:59.536] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[14Apr2025 02:41:59.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[14Apr2025 02:41:59.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[14Apr2025 02:41:59.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[14Apr2025 02:41:59.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[14Apr2025 02:41:59.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[14Apr2025 02:42:08.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Apr2025 02:42:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Apr2025 02:42:09.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Server closed
+[14Apr2025 02:42:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[14Apr2025 02:42:09.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Server closed
+[14Apr2025 02:42:09.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[14Apr2025 02:42:09.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Apr2025 02:42:11.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Apr2025 02:42:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[14Apr2025 02:42:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Apr2025 02:42:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Apr2025 02:42:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 02:42:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[14Apr2025 02:42:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 02:42:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 02:42:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Apr2025 02:42:20.089] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

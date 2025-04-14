@@ -1910,6 +1910,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-14 02:33:28 +0000",
       "baked_potato": "2025-04-13 23:55:08 +0000",
       "porkchop": "2025-04-13 23:39:11 +0000",
       "mutton": "2025-04-13 23:36:41 +0000",
@@ -3575,9 +3576,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-14 02:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-14 02:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-14 02:17:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3614,6 +3633,12 @@
   "valhelsia_furniture:recipes/decorations/purple_dark_oak_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3659,6 +3684,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/purple_sleeping_bag": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3689,15 +3720,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-14 02:02:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3743,6 +3792,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-04-14 02:29:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-14 02:07:35 +0000"
@@ -3755,9 +3810,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-04-14 01:45:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3773,6 +3840,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_mangrove_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3782,6 +3861,18 @@
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3827,9 +3918,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3851,6 +3954,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-14 02:07:35 +0000"
@@ -3860,6 +3969,12 @@
   "the_pillager_legion_:achiv_get_axe_tpl": {
     "criteria": {
       "achiv_get_axe_tpl_0": "2025-04-14 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -3899,6 +4014,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
@@ -3923,6 +4044,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-14 02:09:09 +0000"
@@ -3932,6 +4059,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-04-14 02:29:18 +0000"
     },
     "done": true
   },
@@ -3995,8 +4128,15 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-14 02:17:17 +0000"
+    },
+    "done": true
+  },
   "the_pillager_legion_:achiv_get_legion_armor": {
     "criteria": {
+      "achiv_get_legion_armor_3": "2025-04-14 02:16:23 +0000",
       "achiv_get_legion_armor_0": "2025-04-14 02:13:46 +0000"
     },
     "done": false
@@ -4010,6 +4150,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-14 01:43:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -4061,9 +4207,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-14 02:14:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2025-04-14 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
@@ -4082,6 +4246,12 @@
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-04-14 02:14:49 +0000"
     },
     "done": true
   },
@@ -4145,6 +4315,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "the_pillager_legion_:achiv_kill_10_legionnaire_tpl": {
     "criteria": {
       "achiv_kill_10_legionnaire_tpl_0": "2025-04-14 02:12:15 +0000"
@@ -4157,9 +4333,33 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze_smithing": {
     "criteria": {
       "has_blaze": "2025-04-14 01:09:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_get_legion_sword": {
+    "criteria": {
+      "achiv_get_legion_sword_0": "2025-04-14 02:15:33 +0000"
     },
     "done": true
   },
@@ -4178,6 +4378,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_stool": {
     "criteria": {
       "has_purple_wool": "2025-04-14 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-04-14 02:15:14 +0000"
     },
     "done": true
   },
